@@ -377,3 +377,7 @@ stack trace: CodeExpectedError: Could not find pty on pty host
 [16:25:05] [gitpod-remote-ssh]: Couldn't find message for key openPreview.
 [16:25:05] [gitpod-remote-ssh]: Couldn't find message for key makeHTTPS.
 [16:25:05] [gitpod-remote-ssh]: Couldn't find message for key makeHTTP.
+[16:30:06] [gitpod-remote-ssh]: Couldn't find message for key openBrowser.
+[16:30:06] [gitpod-remote-ssh]: Couldn't find message for key openPreview.
+[16:30:06] [gitpod-remote-ssh]: Couldn't find message for key makeHTTPS.
+[16:30:06] [gitpod-remote-ssh]: Couldn't find message for key makeHTTP.
