@@ -1,6 +1,0 @@
-2024-04-20 15:38:36.745 [warning] /teamspace/studios/this_studio/.ssh/config: ENOENT: no such file or directory, open '/teamspace/studios/this_studio/.ssh/config'
-2024-04-20 15:38:36.745 [info] Activation> Extension version: 0.78.1
-2024-04-20 15:38:38.292 [info] Looking for git repository
-2024-04-20 15:38:38.292 [info] Found 0 repositories during activation
-2024-04-20 15:38:38.292 [info] Git repository found, initializing review manager and pr tree view.
-2024-04-20 15:38:38.292 [info] Registering git provider
