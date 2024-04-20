@@ -40,3 +40,23 @@
 2024-04-20 15:56:16.811 [info] Review+0> No matching pull request metadata found locally for current branch main
 2024-04-20 15:56:16.829 [info] Review+0> Failed to get upstream for branch main from git config.
 2024-04-20 15:56:16.830 [info] Review+0> No matching pull request metadata found on GitHub for current branch main
+2024-04-20 16:00:08.740 [info] Review+0> Validate state in progress
+2024-04-20 16:00:08.740 [info] Review+0> Validating state...
+2024-04-20 16:00:09.245 [info] Found GitHub remote for folder /teamspace/studios/this_studio
+2024-04-20 16:00:09.249 [info] Using in-memory cached assignable users.
+2024-04-20 16:00:09.461 [info] Review+0> No matching pull request metadata found locally for current branch main
+2024-04-20 16:00:09.539 [info] Review+0> Failed to get upstream for branch main from git config.
+2024-04-20 16:00:09.539 [info] Review+0> No matching pull request metadata found on GitHub for current branch main
+2024-04-20 16:07:55.145 [info] Review+0> Validate state in progress
+2024-04-20 16:07:55.146 [info] Review+0> Validating state...
+2024-04-20 16:07:55.297 [info] Found GitHub remote for folder /teamspace/studios/this_studio
+2024-04-20 16:07:55.299 [info] Using in-memory cached assignable users.
+2024-04-20 16:07:55.612 [info] Review+0> No matching pull request metadata found locally for current branch main
+2024-04-20 16:07:55.762 [info] Review+0> Failed to get upstream for branch main from git config.
+2024-04-20 16:07:55.762 [info] Review+0> No matching pull request metadata found on GitHub for current branch main
+2024-04-20 16:19:20.079 [info] Review+0> Validate state in progress
+2024-04-20 16:19:20.080 [info] Review+0> Validating state...
+2024-04-20 16:19:20.281 [info] Found GitHub remote for folder /teamspace/studios/this_studio
+2024-04-20 16:19:20.282 [info] Using in-memory cached assignable users.
+2024-04-20 16:19:20.513 [info] Review+0> No matching pull request metadata found locally for current branch main
+2024-04-20 16:19:20.755 [info] Review+0> No matching pull request metadata found on GitHub for current branch main

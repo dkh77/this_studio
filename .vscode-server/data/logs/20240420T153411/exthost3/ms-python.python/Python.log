@@ -12,3 +12,5 @@
 2024-04-20 15:35:10.768 [warning] Shell integration may not be active, environment activated may be overridden by the shell.
 2024-04-20 15:35:11.641 [info] Starting Pylance language server.
 2024-04-20 15:36:26.729 [info] Discover tests for workspace name: this_studio - uri: /teamspace/studios/this_studio
+2024-04-20 16:00:25.148 [info] Running installed packages checker:  /home/zeus/miniconda3/envs/cloudspace/bin/python /teamspace/studios/this_studio/.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/installed_check.py /teamspace/studios/this_studio/pyproject.toml
+2024-04-20 16:00:25.149 [info] > /home/zeus/miniconda3/envs/cloudspace/bin/python ./.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/installed_check.py ./pyproject.toml

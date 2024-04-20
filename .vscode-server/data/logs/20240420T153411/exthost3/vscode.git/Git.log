@@ -362,3 +362,998 @@ fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
 2024-04-20 15:56:40.878 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [17ms]
 2024-04-20 15:56:40.878 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
 2024-04-20 15:56:41.282 [info] > git status -z -uall [391ms]
+2024-04-20 15:56:46.236 [info] > git add -A -- . [405ms]
+2024-04-20 15:56:46.236 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 15:56:47.660 [info] > git show --textconv :.git/COMMIT_EDITMSG [36ms]
+2024-04-20 15:56:47.669 [info] > git ls-files --stage -- /teamspace/studios/this_studio/.git/COMMIT_EDITMSG [28ms]
+2024-04-20 15:56:47.669 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 15:56:48.221 [info] > git ls-files --stage -- /teamspace/studios/this_studio/.git/COMMIT_EDITMSG [29ms]
+2024-04-20 15:56:48.221 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 15:56:48.418 [info] > git show --textconv :.git/COMMIT_EDITMSG [29ms]
+2024-04-20 15:57:59.625 [info] > git show --textconv HEAD:.vscode-server/data/logs/20240420T153411/exthost3/vscode.git/Git.log [19ms]
+2024-04-20 15:57:59.636 [info] > git ls-tree -l HEAD -- /teamspace/studios/this_studio/.vscode-server/data/logs/20240420T153411/exthost3/vscode.git/Git.log [19ms]
+2024-04-20 15:57:59.636 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 15:58:00.172 [info] > git check-ignore -v -z --stdin [41ms]
+2024-04-20 15:58:02.214 [info] > git show --textconv HEAD:.vscode-server/data/logs/20240420T153411/exthost3/GitHub.vscode-pull-request-github/GitHub Pull Request.log [26ms]
+2024-04-20 15:58:02.232 [info] > git ls-tree -l HEAD -- /teamspace/studios/this_studio/.vscode-server/data/logs/20240420T153411/exthost3/GitHub.vscode-pull-request-github/GitHub Pull Request.log [29ms]
+2024-04-20 15:58:02.232 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 15:58:02.754 [info] > git check-ignore -v -z --stdin [32ms]
+2024-04-20 15:58:04.797 [info] > git show --textconv :.git/COMMIT_EDITMSG [29ms]
+2024-04-20 15:58:04.811 [info] > git ls-files --stage -- /teamspace/studios/this_studio/.git/COMMIT_EDITMSG [29ms]
+2024-04-20 15:58:04.811 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 15:58:06.220 [info] > git -c user.useConfigOnly=true commit --quiet [79970ms]
+2024-04-20 15:58:06.220 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+Aborting commit due to empty commit message.
+2024-04-20 15:58:06.252 [info] > git config --get commit.template [18ms]
+2024-04-20 15:58:06.252 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 15:58:06.266 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [19ms]
+2024-04-20 15:58:06.266 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 15:58:06.577 [info] > git show --textconv :src/financial_analyst_crew/main.py [32ms]
+2024-04-20 15:58:06.589 [info] > git ls-files --stage -- /teamspace/studios/this_studio/src/financial_analyst_crew/main.py [32ms]
+2024-04-20 15:58:06.589 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 15:58:06.628 [info] > git cat-file -s c607606c2d3a587e9e02fdd1a4c2330207fb05fb [21ms]
+2024-04-20 15:58:06.628 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 15:58:06.688 [info] > git status -z -uall [409ms]
+2024-04-20 15:58:06.723 [info] > git config --get commit.template [18ms]
+2024-04-20 15:58:06.723 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 15:58:06.735 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [18ms]
+2024-04-20 15:58:06.736 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 15:58:08.525 [info] > git status -z -uall [1778ms]
+2024-04-20 15:58:13.570 [info] > git config --get commit.template [25ms]
+2024-04-20 15:58:13.571 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 15:58:13.586 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [24ms]
+2024-04-20 15:58:13.586 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 15:58:14.809 [info] > git status -z -uall [1203ms]
+2024-04-20 15:58:19.865 [info] > git config --get commit.template [36ms]
+2024-04-20 15:58:19.866 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 15:58:19.869 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [26ms]
+2024-04-20 15:58:19.869 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 15:58:20.639 [info] > git status -z -uall [755ms]
+2024-04-20 15:58:25.672 [info] > git config --get commit.template [17ms]
+2024-04-20 15:58:25.673 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 15:58:25.683 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [18ms]
+2024-04-20 15:58:25.683 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 15:58:26.061 [info] > git status -z -uall [367ms]
+2024-04-20 15:58:31.095 [info] > git config --get commit.template [17ms]
+2024-04-20 15:58:31.095 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 15:58:31.107 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [17ms]
+2024-04-20 15:58:31.107 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 15:58:31.490 [info] > git status -z -uall [370ms]
+2024-04-20 15:58:33.744 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) refs/heads/ [25ms]
+2024-04-20 15:58:33.744 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 15:58:33.791 [info] > git config --local branch.main.github-pr-owner-number [27ms]
+2024-04-20 15:58:33.791 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 15:58:36.524 [info] > git config --get commit.template [18ms]
+2024-04-20 15:58:36.524 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 15:58:36.535 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [17ms]
+2024-04-20 15:58:36.535 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 15:58:37.338 [info] > git status -z -uall [790ms]
+2024-04-20 15:58:39.165 [info] > git config --local branch.main.github-pr-owner-number [22ms]
+2024-04-20 15:58:39.166 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 15:58:41.683 [info] > git show --textconv :.git/COMMIT_EDITMSG [20ms]
+2024-04-20 15:58:41.696 [info] > git ls-files --stage -- /teamspace/studios/this_studio/.git/COMMIT_EDITMSG [21ms]
+2024-04-20 15:58:41.696 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 15:58:42.678 [info] > git ls-files --stage -- /teamspace/studios/this_studio/.git/COMMIT_EDITMSG [67ms]
+2024-04-20 15:58:42.678 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 15:58:42.876 [info] > git show --textconv :.git/COMMIT_EDITMSG [29ms]
+2024-04-20 16:00:01.852 [info] > git ls-files --stage -- /teamspace/studios/this_studio/.git/COMMIT_EDITMSG [20ms]
+2024-04-20 16:00:01.853 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:00:02.036 [info] > git show --textconv :.git/COMMIT_EDITMSG [21ms]
+2024-04-20 16:00:06.795 [info] > git -c user.useConfigOnly=true commit --quiet [86159ms]
+2024-04-20 16:00:06.796 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+fatal: cannot lock ref 'HEAD': is at 9220f5252c75a5f742b9658bc087933ec37f8ec2 but expected 1f2a53ad5230051352996708e81d0626ddd1a6c7
+2024-04-20 16:00:06.827 [info] > git config --get-all user.name [16ms]
+2024-04-20 16:00:06.827 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:00:06.860 [info] > git config --get-all user.email [20ms]
+2024-04-20 16:00:06.860 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:00:06.909 [info] > git config --get commit.template [31ms]
+2024-04-20 16:00:06.909 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:00:06.919 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [26ms]
+2024-04-20 16:00:06.919 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:00:07.155 [info] > git show --textconv :src/financial_analyst_crew/main.py [28ms]
+2024-04-20 16:00:07.195 [info] > git ls-files --stage -- /teamspace/studios/this_studio/src/financial_analyst_crew/main.py [51ms]
+2024-04-20 16:00:07.195 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:00:07.240 [info] > git cat-file -s c607606c2d3a587e9e02fdd1a4c2330207fb05fb [24ms]
+2024-04-20 16:00:07.240 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:00:08.716 [info] > git status -z -uall [1779ms]
+2024-04-20 16:00:08.990 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [251ms]
+2024-04-20 16:00:08.990 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:00:09.027 [info] > git config --get commit.template [37ms]
+2024-04-20 16:00:09.027 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:00:09.063 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [40ms]
+2024-04-20 16:00:09.063 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:00:09.082 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [76ms]
+2024-04-20 16:00:09.082 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:00:09.084 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [36ms]
+2024-04-20 16:00:09.084 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:00:09.129 [info] > git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z 9220f5252c75a5f742b9658bc087933ec37f8ec2 [45ms]
+2024-04-20 16:00:09.129 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:00:09.441 [info] > git config --local branch.main.github-pr-owner-number [158ms]
+2024-04-20 16:00:09.441 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:00:09.462 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main [217ms]
+2024-04-20 16:00:09.462 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:00:09.516 [info] > git config --local branch.main.vscode-merge-base [36ms]
+2024-04-20 16:00:09.516 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:00:09.538 [info] > git config --local branch.main.remote [77ms]
+2024-04-20 16:00:09.538 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:00:09.672 [info] > git reflog refs/heads/main --grep-reflog=branch: Created from *. [135ms]
+2024-04-20 16:00:09.672 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:00:09.764 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [68ms]
+2024-04-20 16:00:09.764 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2024-04-20 16:00:11.721 [info] > git status -z -uall [2617ms]
+2024-04-20 16:00:16.755 [info] > git config --get commit.template [17ms]
+2024-04-20 16:00:16.756 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:00:16.767 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [17ms]
+2024-04-20 16:00:16.768 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:00:17.344 [info] > git show --textconv :.lightning_studio/.studiorc [26ms]
+2024-04-20 16:00:17.371 [info] > git ls-files --stage -- /teamspace/studios/this_studio/.lightning_studio/.studiorc [34ms]
+2024-04-20 16:00:17.371 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:00:17.413 [info] > git cat-file -s cfe2dfe7fa06cec1fd6734329c7e400aa4133df2 [23ms]
+2024-04-20 16:00:17.413 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:00:18.152 [info] > git status -z -uall [1371ms]
+2024-04-20 16:00:18.662 [info] > git show --textconv :.lightning_studio/on_start.sh [29ms]
+2024-04-20 16:00:18.676 [info] > git ls-files --stage -- /teamspace/studios/this_studio/.lightning_studio/on_start.sh [29ms]
+2024-04-20 16:00:18.676 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:00:18.717 [info] > git cat-file -s 196a7d66bf5578fa2948d7034ca5e8310e9e2b45 [26ms]
+2024-04-20 16:00:18.717 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:00:20.699 [info] > git show --textconv :.embedchain/config.json [52ms]
+2024-04-20 16:00:20.713 [info] > git ls-files --stage -- /teamspace/studios/this_studio/.embedchain/config.json [40ms]
+2024-04-20 16:00:20.713 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:00:20.793 [info] > git cat-file -s 574d8426dffca3f8ebe20edb486c4591215e76ef [61ms]
+2024-04-20 16:00:20.793 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:00:23.203 [info] > git config --get commit.template [29ms]
+2024-04-20 16:00:23.203 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:00:23.211 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [25ms]
+2024-04-20 16:00:23.211 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:00:23.978 [info] > git ls-files --stage -- /teamspace/studios/this_studio/.env [30ms]
+2024-04-20 16:00:23.978 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:00:24.004 [info] > git show --textconv :.env [77ms]
+2024-04-20 16:00:24.030 [info] > git cat-file -s 6fdf1c34040bac4bd407d645a1bc7cc4cc60ce6c [30ms]
+2024-04-20 16:00:24.030 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:00:24.963 [info] > git show --textconv :poetry.lock [47ms]
+2024-04-20 16:00:24.965 [info] > git ls-files --stage -- /teamspace/studios/this_studio/poetry.lock [32ms]
+2024-04-20 16:00:24.965 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:00:25.005 [info] > git cat-file -s 3cb7f1cfaa6bc31e31da99d8c61c42d1ddf63c7a [22ms]
+2024-04-20 16:00:25.005 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:00:25.066 [info] > git status -z -uall [1839ms]
+2024-04-20 16:00:25.757 [info] > git show --textconv :pyproject.toml [22ms]
+2024-04-20 16:00:25.769 [info] > git ls-files --stage -- /teamspace/studios/this_studio/pyproject.toml [21ms]
+2024-04-20 16:00:25.769 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:00:25.799 [info] > git cat-file -s 480018328672838687e9ab8d9f6588fae0898330 [16ms]
+2024-04-20 16:00:25.799 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:00:27.801 [info] > git ls-files --stage -- /teamspace/studios/this_studio/poetry.lock [28ms]
+2024-04-20 16:00:27.801 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:00:27.821 [info] > git show --textconv :poetry.lock [61ms]
+2024-04-20 16:00:27.857 [info] > git cat-file -s 3cb7f1cfaa6bc31e31da99d8c61c42d1ddf63c7a [38ms]
+2024-04-20 16:00:27.857 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:00:30.107 [info] > git config --get commit.template [24ms]
+2024-04-20 16:00:30.107 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:00:30.118 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [25ms]
+2024-04-20 16:00:30.118 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:00:30.739 [info] > git status -z -uall [607ms]
+2024-04-20 16:00:35.771 [info] > git config --get commit.template [17ms]
+2024-04-20 16:00:35.771 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:00:35.781 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [19ms]
+2024-04-20 16:00:35.781 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:00:36.165 [info] > git status -z -uall [373ms]
+2024-04-20 16:00:41.196 [info] > git config --get commit.template [17ms]
+2024-04-20 16:00:41.197 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:00:41.207 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [19ms]
+2024-04-20 16:00:41.207 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:00:41.606 [info] > git status -z -uall [388ms]
+2024-04-20 16:00:46.640 [info] > git config --get commit.template [20ms]
+2024-04-20 16:00:46.640 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:00:46.647 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [17ms]
+2024-04-20 16:00:46.647 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:00:48.185 [info] > git status -z -uall [1527ms]
+2024-04-20 16:00:53.232 [info] > git config --get commit.template [29ms]
+2024-04-20 16:00:53.232 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:00:53.242 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [27ms]
+2024-04-20 16:00:53.242 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:00:55.055 [info] > git status -z -uall [1800ms]
+2024-04-20 16:01:00.097 [info] > git config --get commit.template [23ms]
+2024-04-20 16:01:00.098 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:01:00.110 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [23ms]
+2024-04-20 16:01:00.110 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:01:00.641 [info] > git status -z -uall [516ms]
+2024-04-20 16:01:05.671 [info] > git config --get commit.template [17ms]
+2024-04-20 16:01:05.672 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:01:05.681 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [17ms]
+2024-04-20 16:01:05.681 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:01:06.137 [info] > git status -z -uall [447ms]
+2024-04-20 16:01:07.892 [info] > git ls-files --stage -- /teamspace/studios/this_studio/poetry.lock [29ms]
+2024-04-20 16:01:07.892 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:01:07.931 [info] > git cat-file -s 3cb7f1cfaa6bc31e31da99d8c61c42d1ddf63c7a [25ms]
+2024-04-20 16:01:07.932 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:01:08.128 [info] > git show --textconv :poetry.lock [31ms]
+2024-04-20 16:01:11.169 [info] > git config --get commit.template [16ms]
+2024-04-20 16:01:11.169 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:01:11.178 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [17ms]
+2024-04-20 16:01:11.178 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:01:11.579 [info] > git status -z -uall [392ms]
+2024-04-20 16:01:16.613 [info] > git config --get commit.template [20ms]
+2024-04-20 16:01:16.614 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:01:16.623 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [18ms]
+2024-04-20 16:01:16.623 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:01:18.274 [info] > git status -z -uall [1641ms]
+2024-04-20 16:01:23.324 [info] > git config --get commit.template [31ms]
+2024-04-20 16:01:23.325 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:01:23.332 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [28ms]
+2024-04-20 16:01:23.332 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:01:25.086 [info] > git status -z -uall [1741ms]
+2024-04-20 16:01:32.252 [info] > git config --get commit.template [32ms]
+2024-04-20 16:01:32.253 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:01:32.253 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [24ms]
+2024-04-20 16:01:32.253 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:01:33.684 [info] > git status -z -uall [1419ms]
+2024-04-20 16:01:38.731 [info] > git config --get commit.template [29ms]
+2024-04-20 16:01:38.732 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:01:38.744 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [27ms]
+2024-04-20 16:01:38.744 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:01:39.757 [info] > git status -z -uall [999ms]
+2024-04-20 16:01:42.222 [info] > git check-ignore -v -z --stdin [29ms]
+2024-04-20 16:01:44.809 [info] > git config --get commit.template [31ms]
+2024-04-20 16:01:44.809 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:01:44.825 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [25ms]
+2024-04-20 16:01:44.825 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:01:45.641 [info] > git status -z -uall [804ms]
+2024-04-20 16:02:19.160 [info] > git config --get commit.template [17ms]
+2024-04-20 16:02:19.160 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:02:19.170 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [17ms]
+2024-04-20 16:02:19.170 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:02:19.584 [info] > git status -z -uall [404ms]
+2024-04-20 16:03:39.195 [info] > git config --local branch.main.github-pr-owner-number [17ms]
+2024-04-20 16:03:39.196 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:03:45.980 [info] > git config --get commit.template [19ms]
+2024-04-20 16:03:45.980 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:03:45.991 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [19ms]
+2024-04-20 16:03:45.991 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:03:46.453 [info] > git status -z -uall [451ms]
+2024-04-20 16:03:51.488 [info] > git config --get commit.template [18ms]
+2024-04-20 16:03:51.489 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:03:51.499 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [18ms]
+2024-04-20 16:03:51.499 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:03:52.461 [info] > git status -z -uall [951ms]
+2024-04-20 16:03:57.518 [info] > git config --get commit.template [36ms]
+2024-04-20 16:03:57.518 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:03:57.520 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [24ms]
+2024-04-20 16:03:57.520 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:03:59.471 [info] > git status -z -uall [1934ms]
+2024-04-20 16:04:04.524 [info] > git config --get commit.template [33ms]
+2024-04-20 16:04:04.525 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:04:04.533 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [27ms]
+2024-04-20 16:04:04.533 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:04:05.354 [info] > git status -z -uall [806ms]
+2024-04-20 16:04:10.408 [info] > git config --get commit.template [34ms]
+2024-04-20 16:04:10.408 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:04:10.414 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [25ms]
+2024-04-20 16:04:10.414 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:04:10.993 [info] > git status -z -uall [563ms]
+2024-04-20 16:04:12.511 [info] > git ls-files --stage -- /teamspace/studios/this_studio/poetry.lock [33ms]
+2024-04-20 16:04:12.511 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:04:12.562 [info] > git cat-file -s 3cb7f1cfaa6bc31e31da99d8c61c42d1ddf63c7a [34ms]
+2024-04-20 16:04:12.562 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:04:12.776 [info] > git show --textconv :poetry.lock [35ms]
+2024-04-20 16:04:27.366 [info] > git config --get commit.template [17ms]
+2024-04-20 16:04:27.366 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:04:27.376 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [18ms]
+2024-04-20 16:04:27.376 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:04:27.797 [info] > git status -z -uall [410ms]
+2024-04-20 16:04:32.843 [info] > git config --get commit.template [26ms]
+2024-04-20 16:04:32.843 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:04:32.859 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [27ms]
+2024-04-20 16:04:32.859 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:04:33.672 [info] > git status -z -uall [795ms]
+2024-04-20 16:04:38.731 [info] > git config --get commit.template [40ms]
+2024-04-20 16:04:38.731 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:04:38.757 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [43ms]
+2024-04-20 16:04:38.757 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:04:40.275 [info] > git status -z -uall [1500ms]
+2024-04-20 16:04:45.334 [info] > git config --get commit.template [38ms]
+2024-04-20 16:04:45.334 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:04:45.337 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [26ms]
+2024-04-20 16:04:45.337 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:04:45.544 [info] > git ls-files --stage -- /teamspace/studios/this_studio/poetry.lock [23ms]
+2024-04-20 16:04:45.545 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:04:45.582 [info] > git cat-file -s 3cb7f1cfaa6bc31e31da99d8c61c42d1ddf63c7a [24ms]
+2024-04-20 16:04:45.582 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:04:45.772 [info] > git show --textconv :poetry.lock [28ms]
+2024-04-20 16:04:45.861 [info] > git status -z -uall [511ms]
+2024-04-20 16:04:50.894 [info] > git config --get commit.template [19ms]
+2024-04-20 16:04:50.894 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:04:50.903 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [18ms]
+2024-04-20 16:04:50.903 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:04:51.345 [info] > git status -z -uall [430ms]
+2024-04-20 16:05:46.387 [info] > git config --get commit.template [19ms]
+2024-04-20 16:05:46.388 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:05:46.399 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [20ms]
+2024-04-20 16:05:46.399 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:05:46.943 [info] > git status -z -uall [529ms]
+2024-04-20 16:05:51.996 [info] > git config --get commit.template [35ms]
+2024-04-20 16:05:51.997 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:05:52.007 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [29ms]
+2024-04-20 16:05:52.007 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:05:53.942 [info] > git status -z -uall [1919ms]
+2024-04-20 16:05:59.006 [info] > git config --get commit.template [42ms]
+2024-04-20 16:05:59.006 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:05:59.018 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [38ms]
+2024-04-20 16:05:59.018 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:06:00.639 [info] > git status -z -uall [1600ms]
+2024-04-20 16:06:02.670 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [27ms]
+2024-04-20 16:06:02.670 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:06:05.339 [info] > git checkout -q main [102ms]
+2024-04-20 16:06:05.340 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:06:05.398 [info] > git config --get commit.template [41ms]
+2024-04-20 16:06:05.398 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:06:05.403 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [29ms]
+2024-04-20 16:06:05.404 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:06:06.049 [info] > git status -z -uall [630ms]
+2024-04-20 16:06:06.085 [info] > git config --get commit.template [18ms]
+2024-04-20 16:06:06.085 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:06:06.094 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [19ms]
+2024-04-20 16:06:06.094 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:06:06.499 [info] > git status -z -uall [394ms]
+2024-04-20 16:06:06.918 [info] > git ls-files --stage -- /teamspace/studios/this_studio/poetry.lock [31ms]
+2024-04-20 16:06:06.918 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:06:06.960 [info] > git cat-file -s 3cb7f1cfaa6bc31e31da99d8c61c42d1ddf63c7a [27ms]
+2024-04-20 16:06:06.960 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:06:07.156 [info] > git show --textconv :poetry.lock [33ms]
+2024-04-20 16:06:10.295 [info] > git push -u origin main [627ms]
+2024-04-20 16:06:10.296 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+remote: Repository not found.
+fatal: repository 'https://github.com/dkh77/this_studio.git/' not found
+2024-04-20 16:06:10.336 [info] > git config --get commit.template [24ms]
+2024-04-20 16:06:10.336 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:06:10.351 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [27ms]
+2024-04-20 16:06:10.352 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:06:10.951 [info] > git status -z -uall [582ms]
+2024-04-20 16:06:11.533 [info] > git config --get commit.template [19ms]
+2024-04-20 16:06:11.534 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:06:11.544 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [19ms]
+2024-04-20 16:06:11.544 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:06:12.894 [info] > git status -z -uall [1337ms]
+2024-04-20 16:06:17.937 [info] > git config --get commit.template [24ms]
+2024-04-20 16:06:17.938 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:06:17.956 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [25ms]
+2024-04-20 16:06:17.956 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:06:19.806 [info] > git status -z -uall [1837ms]
+2024-04-20 16:06:22.290 [info] > git check-ignore -v -z --stdin [32ms]
+2024-04-20 16:06:24.852 [info] > git config --get commit.template [26ms]
+2024-04-20 16:06:24.853 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:06:24.868 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [26ms]
+2024-04-20 16:06:24.868 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:06:25.828 [info] > git status -z -uall [947ms]
+2024-04-20 16:06:30.862 [info] > git config --get commit.template [20ms]
+2024-04-20 16:06:30.864 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:06:30.876 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [24ms]
+2024-04-20 16:06:30.876 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:06:31.289 [info] > git status -z -uall [402ms]
+2024-04-20 16:06:36.322 [info] > git config --get commit.template [17ms]
+2024-04-20 16:06:36.323 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:06:36.333 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [19ms]
+2024-04-20 16:06:36.333 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:06:36.743 [info] > git status -z -uall [398ms]
+2024-04-20 16:07:46.278 [info] > git config --get commit.template [18ms]
+2024-04-20 16:07:46.279 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:07:46.289 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [19ms]
+2024-04-20 16:07:46.289 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:07:46.726 [info] > git status -z -uall [426ms]
+2024-04-20 16:07:51.758 [info] > git config --get commit.template [18ms]
+2024-04-20 16:07:51.759 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:07:51.769 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [19ms]
+2024-04-20 16:07:51.769 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:07:53.133 [info] > git status -z -uall [1354ms]
+2024-04-20 16:07:55.594 [info] > git config --local branch.main.github-pr-owner-number [268ms]
+2024-04-20 16:07:55.594 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:07:55.761 [info] > git config --local branch.main.remote [149ms]
+2024-04-20 16:07:55.761 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:07:58.178 [info] > git config --get commit.template [24ms]
+2024-04-20 16:07:58.179 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:07:58.194 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [24ms]
+2024-04-20 16:07:58.194 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:07:59.719 [info] > git status -z -uall [1509ms]
+2024-04-20 16:08:04.789 [info] > git config --get commit.template [43ms]
+2024-04-20 16:08:04.790 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:08:04.796 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [34ms]
+2024-04-20 16:08:04.796 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:08:05.686 [info] > git status -z -uall [873ms]
+2024-04-20 16:08:10.718 [info] > git config --get commit.template [18ms]
+2024-04-20 16:08:10.719 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:08:10.729 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [18ms]
+2024-04-20 16:08:10.729 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:08:11.144 [info] > git status -z -uall [403ms]
+2024-04-20 16:08:18.406 [info] > git config --get commit.template [18ms]
+2024-04-20 16:08:18.406 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:08:18.417 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [19ms]
+2024-04-20 16:08:18.417 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:08:18.883 [info] > git status -z -uall [452ms]
+2024-04-20 16:08:23.926 [info] > git config --get commit.template [24ms]
+2024-04-20 16:08:23.926 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:08:23.942 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [26ms]
+2024-04-20 16:08:23.942 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:08:25.135 [info] > git status -z -uall [1177ms]
+2024-04-20 16:08:30.188 [info] > git config --get commit.template [33ms]
+2024-04-20 16:08:30.189 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:08:30.193 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [25ms]
+2024-04-20 16:08:30.193 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:08:30.767 [info] > git status -z -uall [559ms]
+2024-04-20 16:08:39.227 [info] > git config --local branch.main.github-pr-owner-number [18ms]
+2024-04-20 16:08:39.227 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:09:36.816 [info] > git config --get commit.template [17ms]
+2024-04-20 16:09:36.816 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:09:36.826 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [19ms]
+2024-04-20 16:09:36.826 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:09:38.369 [info] > git status -z -uall [1533ms]
+2024-04-20 16:09:43.427 [info] > git config --get commit.template [37ms]
+2024-04-20 16:09:43.428 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:09:43.439 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [28ms]
+2024-04-20 16:09:43.439 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:09:44.195 [info] > git status -z -uall [740ms]
+2024-04-20 16:09:50.718 [info] > git config --get commit.template [18ms]
+2024-04-20 16:09:50.718 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:09:50.729 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [19ms]
+2024-04-20 16:09:50.729 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:09:51.138 [info] > git status -z -uall [396ms]
+2024-04-20 16:09:56.170 [info] > git config --get commit.template [18ms]
+2024-04-20 16:09:56.171 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:09:56.181 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [19ms]
+2024-04-20 16:09:56.181 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:09:56.582 [info] > git status -z -uall [390ms]
+2024-04-20 16:10:01.616 [info] > git config --get commit.template [18ms]
+2024-04-20 16:10:01.617 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:10:01.626 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [18ms]
+2024-04-20 16:10:01.626 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:10:03.124 [info] > git status -z -uall [1487ms]
+2024-04-20 16:10:08.181 [info] > git config --get commit.template [34ms]
+2024-04-20 16:10:08.181 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:10:08.195 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [35ms]
+2024-04-20 16:10:08.195 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:10:09.720 [info] > git status -z -uall [1511ms]
+2024-04-20 16:10:10.005 [info] > git ls-files --stage -- /teamspace/studios/this_studio/poetry.lock [31ms]
+2024-04-20 16:10:10.005 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:10:10.045 [info] > git cat-file -s 3cb7f1cfaa6bc31e31da99d8c61c42d1ddf63c7a [23ms]
+2024-04-20 16:10:10.045 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:10:10.243 [info] > git show --textconv :poetry.lock [33ms]
+2024-04-20 16:10:14.765 [info] > git config --get commit.template [25ms]
+2024-04-20 16:10:14.766 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:10:14.782 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [27ms]
+2024-04-20 16:10:14.782 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:10:15.703 [info] > git status -z -uall [907ms]
+2024-04-20 16:10:21.351 [info] > git config --get commit.template [18ms]
+2024-04-20 16:10:21.351 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:10:21.361 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [18ms]
+2024-04-20 16:10:21.361 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:10:21.768 [info] > git status -z -uall [395ms]
+2024-04-20 16:10:26.801 [info] > git config --get commit.template [18ms]
+2024-04-20 16:10:26.802 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:10:26.814 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [20ms]
+2024-04-20 16:10:26.814 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:10:29.306 [info] > git status -z -uall [2480ms]
+2024-04-20 16:10:34.351 [info] > git config --get commit.template [25ms]
+2024-04-20 16:10:34.352 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:10:34.370 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [29ms]
+2024-04-20 16:10:34.370 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:10:35.129 [info] > git status -z -uall [741ms]
+2024-04-20 16:10:40.181 [info] > git config --get commit.template [33ms]
+2024-04-20 16:10:40.182 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:10:40.186 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [23ms]
+2024-04-20 16:10:40.186 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:10:40.782 [info] > git status -z -uall [578ms]
+2024-04-20 16:10:45.947 [info] > git config --get commit.template [17ms]
+2024-04-20 16:10:45.948 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:10:45.956 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [18ms]
+2024-04-20 16:10:45.956 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:10:46.348 [info] > git status -z -uall [381ms]
+2024-04-20 16:10:56.367 [info] > git config --get commit.template [17ms]
+2024-04-20 16:10:56.368 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:10:56.377 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [18ms]
+2024-04-20 16:10:56.377 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:10:56.781 [info] > git status -z -uall [393ms]
+2024-04-20 16:11:01.813 [info] > git config --get commit.template [18ms]
+2024-04-20 16:11:01.813 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:11:01.822 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [18ms]
+2024-04-20 16:11:01.822 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:11:03.869 [info] > git status -z -uall [2037ms]
+2024-04-20 16:11:08.910 [info] > git config --get commit.template [23ms]
+2024-04-20 16:11:08.911 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:11:08.927 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [26ms]
+2024-04-20 16:11:08.927 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:11:10.658 [info] > git status -z -uall [1717ms]
+2024-04-20 16:11:11.288 [info] > git ls-files --stage -- /teamspace/studios/this_studio/poetry.lock [20ms]
+2024-04-20 16:11:11.288 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:11:11.315 [info] > git cat-file -s 3cb7f1cfaa6bc31e31da99d8c61c42d1ddf63c7a [18ms]
+2024-04-20 16:11:11.315 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:11:11.501 [info] > git show --textconv :poetry.lock [22ms]
+2024-04-20 16:11:15.690 [info] > git config --get commit.template [17ms]
+2024-04-20 16:11:15.691 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:11:15.700 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [19ms]
+2024-04-20 16:11:15.700 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:11:16.093 [info] > git status -z -uall [383ms]
+2024-04-20 16:11:21.124 [info] > git config --get commit.template [17ms]
+2024-04-20 16:11:21.125 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:11:21.134 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [18ms]
+2024-04-20 16:11:21.134 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:11:21.556 [info] > git status -z -uall [413ms]
+2024-04-20 16:11:26.588 [info] > git config --get commit.template [17ms]
+2024-04-20 16:11:26.588 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:11:26.598 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [18ms]
+2024-04-20 16:11:26.598 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:11:27.957 [info] > git status -z -uall [1350ms]
+2024-04-20 16:11:33.010 [info] > git config --get commit.template [35ms]
+2024-04-20 16:11:33.011 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:11:33.011 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [25ms]
+2024-04-20 16:11:33.011 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:11:34.314 [info] > git status -z -uall [1289ms]
+2024-04-20 16:11:39.365 [info] > git config --get commit.template [33ms]
+2024-04-20 16:11:39.366 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:11:39.380 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [36ms]
+2024-04-20 16:11:39.380 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:11:40.486 [info] > git status -z -uall [1093ms]
+2024-04-20 16:11:45.518 [info] > git config --get commit.template [18ms]
+2024-04-20 16:11:45.518 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:11:45.527 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [17ms]
+2024-04-20 16:11:45.527 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:11:45.918 [info] > git ls-files --stage -- /teamspace/studios/this_studio/poetry.lock [26ms]
+2024-04-20 16:11:45.918 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:11:45.938 [info] > git status -z -uall [402ms]
+2024-04-20 16:11:45.949 [info] > git cat-file -s 3cb7f1cfaa6bc31e31da99d8c61c42d1ddf63c7a [19ms]
+2024-04-20 16:11:45.949 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:11:46.134 [info] > git show --textconv :poetry.lock [24ms]
+2024-04-20 16:11:50.970 [info] > git config --get commit.template [18ms]
+2024-04-20 16:11:50.972 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:11:50.979 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [18ms]
+2024-04-20 16:11:50.979 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:11:51.381 [info] > git status -z -uall [390ms]
+2024-04-20 16:11:55.879 [info] > git ls-files --stage -- /teamspace/studios/this_studio/poetry.lock [21ms]
+2024-04-20 16:11:55.879 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:11:55.907 [info] > git cat-file -s 3cb7f1cfaa6bc31e31da99d8c61c42d1ddf63c7a [18ms]
+2024-04-20 16:11:55.907 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:11:56.089 [info] > git show --textconv :poetry.lock [23ms]
+2024-04-20 16:12:01.022 [info] > git config --get commit.template [18ms]
+2024-04-20 16:12:01.024 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:12:01.032 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [18ms]
+2024-04-20 16:12:01.032 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:12:01.437 [info] > git status -z -uall [396ms]
+2024-04-20 16:12:06.468 [info] > git config --get commit.template [17ms]
+2024-04-20 16:12:06.469 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:12:06.479 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [18ms]
+2024-04-20 16:12:06.479 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:12:06.989 [info] > git status -z -uall [500ms]
+2024-04-20 16:12:09.837 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [24ms]
+2024-04-20 16:12:09.837 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:12:12.040 [info] > git config --get commit.template [28ms]
+2024-04-20 16:12:12.040 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:12:12.047 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [23ms]
+2024-04-20 16:12:12.047 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:12:12.164 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [25ms]
+2024-04-20 16:12:12.164 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:12:13.667 [info] > git status -z -uall [1609ms]
+2024-04-20 16:12:18.714 [info] > git config --get commit.template [28ms]
+2024-04-20 16:12:18.714 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:12:18.724 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [27ms]
+2024-04-20 16:12:18.724 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:12:19.636 [info] > git status -z -uall [900ms]
+2024-04-20 16:12:24.688 [info] > git config --get commit.template [33ms]
+2024-04-20 16:12:24.689 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:12:24.697 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [30ms]
+2024-04-20 16:12:24.697 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:12:25.521 [info] > git status -z -uall [811ms]
+2024-04-20 16:13:39.257 [info] > git config --local branch.main.github-pr-owner-number [17ms]
+2024-04-20 16:13:39.258 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:14:40.218 [info] > git config --get commit.template [18ms]
+2024-04-20 16:14:40.219 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:14:40.229 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [18ms]
+2024-04-20 16:14:40.229 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:14:40.651 [info] > git status -z -uall [411ms]
+2024-04-20 16:14:46.419 [info] > git config --get commit.template [18ms]
+2024-04-20 16:14:46.419 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:14:46.432 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [21ms]
+2024-04-20 16:14:46.432 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:14:46.827 [info] > git status -z -uall [382ms]
+2024-04-20 16:15:41.556 [info] > git config --get commit.template [22ms]
+2024-04-20 16:15:41.556 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:15:41.566 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [23ms]
+2024-04-20 16:15:41.566 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:15:43.051 [info] > git status -z -uall [1471ms]
+2024-04-20 16:15:48.093 [info] > git config --get commit.template [24ms]
+2024-04-20 16:15:48.094 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:15:48.103 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [23ms]
+2024-04-20 16:15:48.104 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:15:50.338 [info] > git status -z -uall [2222ms]
+2024-04-20 16:15:55.380 [info] > git config --get commit.template [23ms]
+2024-04-20 16:15:55.381 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:15:55.393 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [25ms]
+2024-04-20 16:15:55.393 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:15:55.929 [info] > git status -z -uall [523ms]
+2024-04-20 16:16:27.453 [info] > git config --get commit.template [17ms]
+2024-04-20 16:16:27.453 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:16:27.462 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [17ms]
+2024-04-20 16:16:27.462 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:16:27.882 [info] > git status -z -uall [409ms]
+2024-04-20 16:16:32.925 [info] > git config --get commit.template [26ms]
+2024-04-20 16:16:32.925 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:16:32.932 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [22ms]
+2024-04-20 16:16:32.932 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:16:33.786 [info] > git status -z -uall [840ms]
+2024-04-20 16:16:38.829 [info] > git config --get commit.template [25ms]
+2024-04-20 16:16:38.830 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:16:38.843 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [27ms]
+2024-04-20 16:16:38.843 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:16:40.042 [info] > git status -z -uall [1184ms]
+2024-04-20 16:16:45.090 [info] > git config --get commit.template [31ms]
+2024-04-20 16:16:45.091 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:16:45.097 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [25ms]
+2024-04-20 16:16:45.098 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:16:45.757 [info] > git status -z -uall [641ms]
+2024-04-20 16:16:50.787 [info] > git config --get commit.template [17ms]
+2024-04-20 16:16:50.789 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:16:50.796 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [17ms]
+2024-04-20 16:16:50.796 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:16:51.175 [info] > git status -z -uall [369ms]
+2024-04-20 16:16:56.208 [info] > git config --get commit.template [19ms]
+2024-04-20 16:16:56.208 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:16:56.218 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [19ms]
+2024-04-20 16:16:56.218 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:16:56.613 [info] > git status -z -uall [383ms]
+2024-04-20 16:17:01.643 [info] > git config --get commit.template [17ms]
+2024-04-20 16:17:01.644 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:17:01.652 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [17ms]
+2024-04-20 16:17:01.652 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:17:02.899 [info] > git status -z -uall [1237ms]
+2024-04-20 16:17:50.069 [info] > git config --get commit.template [19ms]
+2024-04-20 16:17:50.069 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:17:50.078 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [19ms]
+2024-04-20 16:17:50.078 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:17:50.495 [info] > git status -z -uall [407ms]
+2024-04-20 16:18:10.137 [info] > git config --get commit.template [18ms]
+2024-04-20 16:18:10.137 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:18:10.145 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [18ms]
+2024-04-20 16:18:10.145 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:18:10.574 [info] > git status -z -uall [418ms]
+2024-04-20 16:18:14.795 [info] > git ls-files --stage -- /teamspace/studios/this_studio/poetry.lock [28ms]
+2024-04-20 16:18:14.795 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:18:14.831 [info] > git cat-file -s 3cb7f1cfaa6bc31e31da99d8c61c42d1ddf63c7a [23ms]
+2024-04-20 16:18:14.831 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:18:15.031 [info] > git show --textconv :poetry.lock [34ms]
+2024-04-20 16:18:15.606 [info] > git config --get commit.template [17ms]
+2024-04-20 16:18:15.606 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:18:15.615 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [18ms]
+2024-04-20 16:18:15.615 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:18:15.991 [info] > git status -z -uall [366ms]
+2024-04-20 16:18:21.023 [info] > git config --get commit.template [18ms]
+2024-04-20 16:18:21.024 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:18:21.034 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [17ms]
+2024-04-20 16:18:21.034 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:18:21.445 [info] > git status -z -uall [401ms]
+2024-04-20 16:18:39.294 [info] > git config --local branch.main.github-pr-owner-number [21ms]
+2024-04-20 16:18:39.294 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:18:42.762 [info] > git config --get commit.template [30ms]
+2024-04-20 16:18:42.762 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:18:42.768 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [26ms]
+2024-04-20 16:18:42.768 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:18:44.250 [info] > git status -z -uall [1470ms]
+2024-04-20 16:18:47.311 [info] > git ls-files --stage -- /teamspace/studios/this_studio/poetry.lock [29ms]
+2024-04-20 16:18:47.312 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:18:47.351 [info] > git cat-file -s 3cb7f1cfaa6bc31e31da99d8c61c42d1ddf63c7a [24ms]
+2024-04-20 16:18:47.351 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:18:47.543 [info] > git show --textconv :poetry.lock [29ms]
+2024-04-20 16:18:49.291 [info] > git config --get commit.template [23ms]
+2024-04-20 16:18:49.291 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:18:49.314 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [27ms]
+2024-04-20 16:18:49.314 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:18:50.604 [info] > git status -z -uall [1274ms]
+2024-04-20 16:18:55.635 [info] > git config --get commit.template [17ms]
+2024-04-20 16:18:55.636 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:18:55.644 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [17ms]
+2024-04-20 16:18:55.644 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:18:56.052 [info] > git status -z -uall [398ms]
+2024-04-20 16:19:01.083 [info] > git config --get commit.template [17ms]
+2024-04-20 16:19:01.084 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:19:01.092 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [18ms]
+2024-04-20 16:19:01.092 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:19:01.476 [info] > git status -z -uall [373ms]
+2024-04-20 16:19:06.512 [info] > git config --get commit.template [22ms]
+2024-04-20 16:19:06.512 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:19:06.517 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [19ms]
+2024-04-20 16:19:06.517 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:19:07.482 [info] > git status -z -uall [955ms]
+2024-04-20 16:19:12.546 [info] > git config --get commit.template [45ms]
+2024-04-20 16:19:12.546 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:19:12.548 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [38ms]
+2024-04-20 16:19:12.548 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:19:13.404 [info] > git status -z -uall [842ms]
+2024-04-20 16:19:17.574 [info] > git ls-files --stage -- /teamspace/studios/this_studio/poetry.lock [27ms]
+2024-04-20 16:19:17.574 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:19:17.612 [info] > git cat-file -s 3cb7f1cfaa6bc31e31da99d8c61c42d1ddf63c7a [22ms]
+2024-04-20 16:19:17.612 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:19:17.814 [info] > git show --textconv :poetry.lock [31ms]
+2024-04-20 16:19:18.448 [info] > git config --get commit.template [27ms]
+2024-04-20 16:19:18.448 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:19:18.466 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [25ms]
+2024-04-20 16:19:18.466 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:19:20.059 [info] > git status -z -uall [1577ms]
+2024-04-20 16:19:20.105 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [25ms]
+2024-04-20 16:19:20.105 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:19:20.194 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [64ms]
+2024-04-20 16:19:20.194 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:19:20.209 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [90ms]
+2024-04-20 16:19:20.209 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:19:20.239 [info] > git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z 9220f5252c75a5f742b9658bc087933ec37f8ec2 [31ms]
+2024-04-20 16:19:20.239 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:19:20.513 [info] > git config --local branch.main.github-pr-owner-number [213ms]
+2024-04-20 16:19:20.513 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:19:20.819 [info] > git merge-base refs/heads/main refs/remotes/origin/main [47ms]
+2024-04-20 16:19:20.819 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:19:25.120 [info] > git config --get commit.template [22ms]
+2024-04-20 16:19:25.120 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:19:25.135 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [26ms]
+2024-04-20 16:19:25.135 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:19:25.773 [info] > git status -z -uall [624ms]
+2024-04-20 16:19:30.805 [info] > git config --get commit.template [17ms]
+2024-04-20 16:19:30.805 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:19:30.815 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [18ms]
+2024-04-20 16:19:30.815 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:19:31.201 [info] > git status -z -uall [377ms]
+2024-04-20 16:19:36.232 [info] > git config --get commit.template [17ms]
+2024-04-20 16:19:36.232 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:19:36.242 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [17ms]
+2024-04-20 16:19:36.242 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:19:36.641 [info] > git status -z -uall [389ms]
+2024-04-20 16:19:41.674 [info] > git config --get commit.template [19ms]
+2024-04-20 16:19:41.675 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:19:41.685 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [21ms]
+2024-04-20 16:19:41.685 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:19:42.956 [info] > git status -z -uall [1258ms]
+2024-04-20 16:19:47.769 [info] > git ls-files --stage -- /teamspace/studios/this_studio/poetry.lock [29ms]
+2024-04-20 16:19:47.769 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:19:47.805 [info] > git cat-file -s 3cb7f1cfaa6bc31e31da99d8c61c42d1ddf63c7a [23ms]
+2024-04-20 16:19:47.805 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:19:48.009 [info] > git config --get commit.template [34ms]
+2024-04-20 16:19:48.009 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:19:48.025 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [40ms]
+2024-04-20 16:19:48.025 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:19:48.041 [info] > git show --textconv :poetry.lock [47ms]
+2024-04-20 16:19:49.123 [info] > git status -z -uall [1084ms]
+2024-04-20 16:19:54.167 [info] > git config --get commit.template [24ms]
+2024-04-20 16:19:54.168 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:19:54.185 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [29ms]
+2024-04-20 16:19:54.185 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:19:55.410 [info] > git status -z -uall [1209ms]
+2024-04-20 16:20:00.447 [info] > git config --get commit.template [22ms]
+2024-04-20 16:20:00.448 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:20:00.458 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [18ms]
+2024-04-20 16:20:00.458 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:20:00.865 [info] > git status -z -uall [396ms]
+2024-04-20 16:20:05.896 [info] > git config --get commit.template [17ms]
+2024-04-20 16:20:05.897 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:20:05.905 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [17ms]
+2024-04-20 16:20:05.905 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:20:06.290 [info] > git status -z -uall [374ms]
+2024-04-20 16:20:09.606 [info] > git ls-files --stage -- /teamspace/studios/this_studio/poetry.lock [30ms]
+2024-04-20 16:20:09.607 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:20:09.644 [info] > git cat-file -s 3cb7f1cfaa6bc31e31da99d8c61c42d1ddf63c7a [24ms]
+2024-04-20 16:20:09.644 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:20:09.842 [info] > git show --textconv :poetry.lock [30ms]
+2024-04-20 16:20:11.320 [info] > git config --get commit.template [17ms]
+2024-04-20 16:20:11.320 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:20:11.329 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [18ms]
+2024-04-20 16:20:11.329 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:20:11.727 [info] > git status -z -uall [387ms]
+2024-04-20 16:20:15.518 [info] > git ls-files --stage -- /teamspace/studios/this_studio/poetry.lock [27ms]
+2024-04-20 16:20:15.519 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:20:15.546 [info] > git cat-file -s 3cb7f1cfaa6bc31e31da99d8c61c42d1ddf63c7a [17ms]
+2024-04-20 16:20:15.546 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:20:15.736 [info] > git show --textconv :poetry.lock [22ms]
+2024-04-20 16:20:16.760 [info] > git config --get commit.template [17ms]
+2024-04-20 16:20:16.760 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:20:16.770 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [18ms]
+2024-04-20 16:20:16.770 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:20:18.841 [info] > git status -z -uall [2060ms]
+2024-04-20 16:20:23.904 [info] > git config --get commit.template [43ms]
+2024-04-20 16:20:23.906 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:20:23.907 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [35ms]
+2024-04-20 16:20:23.907 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:20:25.347 [info] > git status -z -uall [1424ms]
+2024-04-20 16:20:30.379 [info] > git config --get commit.template [17ms]
+2024-04-20 16:20:30.379 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:20:30.388 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [18ms]
+2024-04-20 16:20:30.389 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:20:30.791 [info] > git status -z -uall [393ms]
+2024-04-20 16:20:35.824 [info] > git config --get commit.template [17ms]
+2024-04-20 16:20:35.824 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:20:35.833 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [18ms]
+2024-04-20 16:20:35.833 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:20:36.212 [info] > git status -z -uall [370ms]
+2024-04-20 16:20:41.243 [info] > git config --get commit.template [17ms]
+2024-04-20 16:20:41.244 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:20:41.254 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [17ms]
+2024-04-20 16:20:41.254 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:20:41.639 [info] > git status -z -uall [376ms]
+2024-04-20 16:20:46.672 [info] > git config --get commit.template [17ms]
+2024-04-20 16:20:46.674 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:20:46.681 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [17ms]
+2024-04-20 16:20:46.681 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:20:47.976 [info] > git status -z -uall [1285ms]
+2024-04-20 16:20:53.020 [info] > git config --get commit.template [27ms]
+2024-04-20 16:20:53.021 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:20:53.033 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [26ms]
+2024-04-20 16:20:53.033 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:20:54.389 [info] > git status -z -uall [1342ms]
+2024-04-20 16:20:59.433 [info] > git config --get commit.template [26ms]
+2024-04-20 16:20:59.434 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:20:59.452 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [33ms]
+2024-04-20 16:20:59.452 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:21:00.387 [info] > git status -z -uall [920ms]
+2024-04-20 16:21:16.462 [info] > git config --get commit.template [17ms]
+2024-04-20 16:21:16.462 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:21:16.472 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [19ms]
+2024-04-20 16:21:16.472 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:21:17.192 [info] > git status -z -uall [709ms]
+2024-04-20 16:21:22.241 [info] > git config --get commit.template [30ms]
+2024-04-20 16:21:22.241 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:21:22.247 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [20ms]
+2024-04-20 16:21:22.247 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:21:23.326 [info] > git status -z -uall [1063ms]
+2024-04-20 16:21:28.368 [info] > git config --get commit.template [26ms]
+2024-04-20 16:21:28.369 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:21:28.386 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [25ms]
+2024-04-20 16:21:28.386 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:21:29.930 [info] > git status -z -uall [1522ms]
+2024-04-20 16:21:34.988 [info] > git config --get commit.template [38ms]
+2024-04-20 16:21:34.989 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:21:34.994 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [33ms]
+2024-04-20 16:21:34.994 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:21:35.568 [info] > git status -z -uall [560ms]
+2024-04-20 16:21:40.599 [info] > git config --get commit.template [17ms]
+2024-04-20 16:21:40.600 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:21:40.610 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [18ms]
+2024-04-20 16:21:40.610 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:21:40.998 [info] > git status -z -uall [378ms]
+2024-04-20 16:21:46.029 [info] > git config --get commit.template [17ms]
+2024-04-20 16:21:46.030 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:21:46.039 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [18ms]
+2024-04-20 16:21:46.039 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:21:46.451 [info] > git status -z -uall [402ms]
+2024-04-20 16:21:50.722 [info] > git ls-files --stage -- /teamspace/studios/this_studio/poetry.lock [20ms]
+2024-04-20 16:21:50.722 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:21:50.749 [info] > git cat-file -s 3cb7f1cfaa6bc31e31da99d8c61c42d1ddf63c7a [17ms]
+2024-04-20 16:21:50.749 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:21:50.936 [info] > git show --textconv :poetry.lock [22ms]
+2024-04-20 16:21:51.485 [info] > git config --get commit.template [21ms]
+2024-04-20 16:21:51.485 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:21:51.491 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [19ms]
+2024-04-20 16:21:51.491 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:21:52.049 [info] > git status -z -uall [548ms]
+2024-04-20 16:21:57.106 [info] > git config --get commit.template [38ms]
+2024-04-20 16:21:57.106 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:21:57.108 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [29ms]
+2024-04-20 16:21:57.108 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:21:59.160 [info] > git status -z -uall [2037ms]
+2024-04-20 16:22:04.205 [info] > git config --get commit.template [25ms]
+2024-04-20 16:22:04.206 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:22:04.217 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [25ms]
+2024-04-20 16:22:04.217 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:22:05.458 [info] > git status -z -uall [1227ms]
+2024-04-20 16:22:10.489 [info] > git config --get commit.template [17ms]
+2024-04-20 16:22:10.490 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:22:10.499 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [18ms]
+2024-04-20 16:22:10.499 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:22:10.879 [info] > git status -z -uall [370ms]
+2024-04-20 16:22:15.913 [info] > git config --get commit.template [18ms]
+2024-04-20 16:22:15.913 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:22:15.922 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [17ms]
+2024-04-20 16:22:15.923 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:22:16.306 [info] > git status -z -uall [373ms]
+2024-04-20 16:22:21.338 [info] > git config --get commit.template [17ms]
+2024-04-20 16:22:21.338 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:22:21.348 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [18ms]
+2024-04-20 16:22:21.348 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:22:21.776 [info] > git status -z -uall [417ms]
+2024-04-20 16:22:26.812 [info] > git config --get commit.template [20ms]
+2024-04-20 16:22:26.813 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:22:26.822 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [19ms]
+2024-04-20 16:22:26.822 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:22:28.608 [info] > git status -z -uall [1776ms]
+2024-04-20 16:22:33.656 [info] > git config --get commit.template [30ms]
+2024-04-20 16:22:33.657 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:22:33.663 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [27ms]
+2024-04-20 16:22:33.663 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:22:34.978 [info] > git status -z -uall [1302ms]
+2024-04-20 16:22:40.022 [info] > git config --get commit.template [24ms]
+2024-04-20 16:22:40.023 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:22:40.033 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [26ms]
+2024-04-20 16:22:40.033 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:22:40.579 [info] > git status -z -uall [533ms]
+2024-04-20 16:22:45.611 [info] > git config --get commit.template [17ms]
+2024-04-20 16:22:45.611 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:22:45.621 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [18ms]
+2024-04-20 16:22:45.621 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:22:46.010 [info] > git status -z -uall [381ms]
+2024-04-20 16:22:51.041 [info] > git config --get commit.template [18ms]
+2024-04-20 16:22:51.041 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:22:51.051 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [18ms]
+2024-04-20 16:22:51.051 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:22:51.458 [info] > git status -z -uall [396ms]
+2024-04-20 16:22:56.490 [info] > git config --get commit.template [17ms]
+2024-04-20 16:22:56.490 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:22:56.501 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [17ms]
+2024-04-20 16:22:56.501 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:22:57.353 [info] > git status -z -uall [843ms]
+2024-04-20 16:22:58.158 [info] > git check-ignore -v -z --stdin [27ms]
+2024-04-20 16:23:02.397 [info] > git config --get commit.template [24ms]
+2024-04-20 16:23:02.397 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:23:02.411 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [27ms]
+2024-04-20 16:23:02.411 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:23:03.656 [info] > git status -z -uall [1231ms]
+2024-04-20 16:23:08.701 [info] > git config --get commit.template [26ms]
+2024-04-20 16:23:08.701 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:23:08.716 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [29ms]
+2024-04-20 16:23:08.716 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:23:09.567 [info] > git status -z -uall [836ms]
+2024-04-20 16:23:14.629 [info] > git config --get commit.template [45ms]
+2024-04-20 16:23:14.630 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:23:14.633 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [25ms]
+2024-04-20 16:23:14.633 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:23:15.647 [info] > git status -z -uall [1001ms]
+2024-04-20 16:23:20.678 [info] > git config --get commit.template [17ms]
+2024-04-20 16:23:20.679 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:23:20.688 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [18ms]
+2024-04-20 16:23:20.688 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:23:21.071 [info] > git status -z -uall [373ms]
+2024-04-20 16:23:23.368 [info] > git ls-files --stage -- /teamspace/studios/this_studio/poetry.lock [26ms]
+2024-04-20 16:23:23.368 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:23:23.403 [info] > git cat-file -s 3cb7f1cfaa6bc31e31da99d8c61c42d1ddf63c7a [22ms]
+2024-04-20 16:23:23.403 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:23:23.603 [info] > git show --textconv :poetry.lock [34ms]
+2024-04-20 16:23:26.107 [info] > git config --get commit.template [21ms]
+2024-04-20 16:23:26.107 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:23:26.114 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [19ms]
+2024-04-20 16:23:26.114 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:23:26.514 [info] > git status -z -uall [390ms]
+2024-04-20 16:23:31.545 [info] > git config --get commit.template [17ms]
+2024-04-20 16:23:31.546 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:23:31.555 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [18ms]
+2024-04-20 16:23:31.555 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:23:32.757 [info] > git status -z -uall [1192ms]
+2024-04-20 16:23:37.800 [info] > git config --get commit.template [23ms]
+2024-04-20 16:23:37.801 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:23:37.818 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [28ms]
+2024-04-20 16:23:37.818 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:23:38.588 [info] > git status -z -uall [756ms]
+2024-04-20 16:23:39.335 [info] > git config --local branch.main.github-pr-owner-number [25ms]
+2024-04-20 16:23:39.335 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:24:25.255 [info] > git config --get commit.template [18ms]
+2024-04-20 16:24:25.256 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:24:25.265 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [19ms]
+2024-04-20 16:24:25.265 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:24:25.686 [info] > git status -z -uall [411ms]
+2024-04-20 16:24:41.399 [info] > git config --get commit.template [17ms]
+2024-04-20 16:24:41.400 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:24:41.409 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [18ms]
+2024-04-20 16:24:41.410 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:24:41.819 [info] > git status -z -uall [399ms]
+2024-04-20 16:24:46.852 [info] > git config --get commit.template [18ms]
+2024-04-20 16:24:46.854 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:24:46.862 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [19ms]
+2024-04-20 16:24:46.862 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:24:47.244 [info] > git status -z -uall [371ms]
+2024-04-20 16:24:52.294 [info] > git config --get commit.template [30ms]
+2024-04-20 16:24:52.294 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:24:52.316 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [40ms]
+2024-04-20 16:24:52.316 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:24:56.087 [info] > git status -z -uall [3756ms] (cancelled)
+2024-04-20 16:24:56.376 [info] > git ls-files --stage -- /teamspace/studios/this_studio/poetry.lock [24ms]
+2024-04-20 16:24:56.376 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:24:58.093 [info] > git show --textconv :poetry.lock [24ms]
+2024-04-20 16:24:58.928 [info] > git config --get commit.template [35ms]
+2024-04-20 16:24:58.928 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:24:58.930 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [23ms]
+2024-04-20 16:24:58.930 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:25:00.579 [info] > git status -z -uall [1631ms] (cancelled)
+2024-04-20 16:25:06.653 [info] > git show --textconv :.env [18ms]
+2024-04-20 16:25:06.668 [info] > git ls-files --stage -- /teamspace/studios/this_studio/.env [19ms]
+2024-04-20 16:25:06.668 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+2024-04-20 16:25:08.020 [info] > git show --textconv :poetry.lock [26ms]
+2024-04-20 16:25:08.039 [info] > git ls-files --stage -- /teamspace/studios/this_studio/poetry.lock [23ms]
+2024-04-20 16:25:08.039 [info] /bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
