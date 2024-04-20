@@ -1,0 +1,68 @@
+2024-04-19 14:33:11.946 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-04-19 14:33:11.946 [info] Experiment 'pythonREPLSmartSend' is active
+2024-04-19 14:33:11.946 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-04-19 14:33:11.946 [info] Experiment 'pythonTestAdapter' is active
+2024-04-19 14:33:11.992 [info] Default formatter is set to esbenp.prettier-vscode for workspace /teamspace/studios/this_studio
+2024-04-19 14:33:12.452 [info] Test server listening.
+2024-04-19 14:33:12.468 [info] > conda info --json
+2024-04-19 14:33:13.203 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-04-19 14:33:13.204 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-04-19 14:33:13.204 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-04-19 14:33:13.204 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2024-04-19 14:33:13.204 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2024-04-19 14:33:13.204 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2024-04-19 14:33:13.239 [info] > /home/zeus/miniconda3/envs/cloudspace/bin/python -I ./.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/get_output_via_markers.py ./.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/interpreterInfo.py
+2024-04-19 14:33:13.271 [info] Python interpreter path: /home/zeus/miniconda3/envs/cloudspace/bin/python
+2024-04-19 14:33:15.428 [warning] Shell integration may not be active, environment activated may be overridden by the shell.
+2024-04-19 14:33:16.070 [info] Starting Pylance language server.
+2024-04-19 14:33:52.766 [info] Discover tests for workspace name: this_studio - uri: /teamspace/studios/this_studio/src/financial_analyst_crew/config/crew.py
+2024-04-19 14:40:03.137 [info] Discover tests for workspace name: this_studio - uri: /teamspace/studios/this_studio/src/financial_analyst_crew/config/crew.py
+2024-04-19 14:42:08.211 [info] Discover tests for workspace name: this_studio - uri: /teamspace/studios/this_studio/src/financial_analyst_crew/config/crew.py
+2024-04-19 14:42:16.304 [info] Discover tests for workspace name: this_studio - uri: /teamspace/studios/this_studio/src/financial_analyst_crew/config/crew.py
+2024-04-19 14:42:32.488 [info] Discover tests for workspace name: this_studio - uri: /teamspace/studios/this_studio/src/financial_analyst_crew/config/crew.py
+2024-04-19 14:45:40.441 [info] Discover tests for workspace name: this_studio - uri: /teamspace/studios/this_studio/src/financial_analyst_crew/config/crew.py
+2024-04-19 14:45:44.223 [info] Discover tests for workspace name: this_studio - uri: /teamspace/studios/this_studio/src/financial_analyst_crew/config/crew.py
+2024-04-19 14:46:29.316 [info] Discover tests for workspace name: this_studio - uri: /teamspace/studios/this_studio/src/financial_analyst_crew/config/crew.py
+2024-04-19 14:49:32.502 [info] Discover tests for workspace name: this_studio - uri: /teamspace/studios/this_studio/src/financial_analyst_crew/config/crew.py
+2024-04-19 14:52:24.238 [info] Discover tests for workspace name: this_studio - uri: /teamspace/studios/this_studio/src/financial_analyst_crew/main.py
+2024-04-19 14:53:43.132 [info] Discover tests for workspace name: this_studio - uri: /teamspace/studios/this_studio/src/financial_analyst_crew/main.py
+2024-04-19 14:55:13.081 [info] Discover tests for workspace name: this_studio - uri: /teamspace/studios/this_studio/src/financial_analyst_crew/main.py
+2024-04-19 14:55:23.563 [info] Discover tests for workspace name: this_studio - uri: /teamspace/studios/this_studio/src/financial_analyst_crew/main.py
+2024-04-19 15:13:28.030 [info] Discover tests for workspace name: this_studio - uri: /teamspace/studios/this_studio/src/financial_analyst_crew/tools/sec_tools.py
+2024-04-19 15:21:54.261 [info] Discover tests for workspace name: this_studio - uri: /teamspace/studios/this_studio/pyproject.toml
+2024-04-19 15:21:54.410 [info] Running installed packages checker:  /home/zeus/miniconda3/envs/cloudspace/bin/python /teamspace/studios/this_studio/.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/installed_check.py /teamspace/studios/this_studio/pyproject.toml
+2024-04-19 15:21:54.410 [info] > /home/zeus/miniconda3/envs/cloudspace/bin/python ./.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/installed_check.py ./pyproject.toml
+2024-04-19 15:27:10.231 [info] Running installed packages checker:  /home/zeus/miniconda3/envs/cloudspace/bin/python /teamspace/studios/this_studio/.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/installed_check.py /teamspace/studios/this_studio/pyproject.toml
+2024-04-19 15:27:10.232 [info] > /home/zeus/miniconda3/envs/cloudspace/bin/python ./.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/installed_check.py ./pyproject.toml
+2024-04-19 15:27:10.482 [info] Discover tests for workspace name: this_studio - uri: /teamspace/studios/this_studio/pyproject.toml
+2024-04-19 15:27:38.257 [info] Running installed packages checker:  /home/zeus/miniconda3/envs/cloudspace/bin/python /teamspace/studios/this_studio/.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/installed_check.py /teamspace/studios/this_studio/pyproject.toml
+2024-04-19 15:27:38.258 [info] > /home/zeus/miniconda3/envs/cloudspace/bin/python ./.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/installed_check.py ./pyproject.toml
+2024-04-19 15:27:38.510 [info] Discover tests for workspace name: this_studio - uri: /teamspace/studios/this_studio/pyproject.toml
+2024-04-19 15:31:32.786 [info] Running installed packages checker:  /home/zeus/miniconda3/envs/cloudspace/bin/python /teamspace/studios/this_studio/.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/installed_check.py /teamspace/studios/this_studio/pyproject.toml
+2024-04-19 15:31:32.786 [info] > /home/zeus/miniconda3/envs/cloudspace/bin/python ./.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/installed_check.py ./pyproject.toml
+2024-04-19 15:31:33.037 [info] Discover tests for workspace name: this_studio - uri: /teamspace/studios/this_studio/pyproject.toml
+2024-04-19 15:39:49.601 [info] Discover tests for workspace name: this_studio - uri: /teamspace/studios/this_studio/src/financial_analyst_crew/crew.py
+2024-04-19 15:47:54.893 [info] > poetry env list --full-path
+2024-04-19 15:47:54.894 [info] cwd: .
+2024-04-19 15:47:54.894 [info] > conda info --json
+2024-04-19 15:47:54.907 [info] Found: /bin/python3 --> /bin/python3.8
+2024-04-19 15:47:54.907 [info] Found: /bin/python3.8 --> /bin/python3.8
+2024-04-19 15:47:54.923 [info] Found: /usr/bin/python3 --> /usr/bin/python3.8
+2024-04-19 15:47:54.924 [info] Found: /usr/bin/python3.8 --> /usr/bin/python3.8
+2024-04-19 15:47:54.940 [info] Found: /commands/python --> /commands/python3.10
+2024-04-19 15:47:54.940 [info] Found: /commands/python3 --> /commands/python3.10
+2024-04-19 15:47:54.941 [info] Found: /commands/python3.10 --> /commands/python3.10
+2024-04-19 15:47:54.944 [info] Found: /home/zeus/miniconda3/envs/cloudspace/bin/python --> /home/zeus/miniconda3/envs/cloudspace/bin/python3.10
+2024-04-19 15:47:54.945 [info] Found: /home/zeus/miniconda3/envs/cloudspace/bin/python3 --> /home/zeus/miniconda3/envs/cloudspace/bin/python3.10
+2024-04-19 15:47:54.946 [info] Found: /home/zeus/miniconda3/envs/cloudspace/bin/python3.1 --> /home/zeus/miniconda3/envs/cloudspace/bin/python3.10
+2024-04-19 15:47:54.946 [info] Found: /home/zeus/miniconda3/envs/cloudspace/bin/python3.10 --> /home/zeus/miniconda3/envs/cloudspace/bin/python3.10
+2024-04-19 15:47:55.614 [info] > /bin/python3 -I ./.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/get_output_via_markers.py ./.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/interpreterInfo.py
+2024-04-19 15:47:55.634 [info] > /home/zeus/miniconda3/bin/python -I ./.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/get_output_via_markers.py ./.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/interpreterInfo.py
+2024-04-19 15:47:55.668 [info] > /usr/bin/python3 -I ./.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/get_output_via_markers.py ./.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/interpreterInfo.py
+2024-04-19 15:47:55.681 [info] > /commands/python -I ./.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/get_output_via_markers.py ./.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/interpreterInfo.py
+2024-04-19 15:53:30.760 [info] Discover tests for workspace name: this_studio - uri: /teamspace/studios/this_studio/src/financial_analyst_crew/main.py
+2024-04-19 15:56:32.748 [info] Discover tests for workspace name: this_studio - uri: /teamspace/studios/this_studio/src/financial_analyst_crew/main.py
+2024-04-19 15:57:06.250 [info] Discover tests for workspace name: this_studio - uri: /teamspace/studios/this_studio/src/financial_analyst_crew/main.py
+2024-04-19 15:58:47.602 [info] Discover tests for workspace name: this_studio - uri: /teamspace/studios/this_studio/src/financial_analyst_crew/main.py
+2024-04-19 15:59:50.379 [info] Discover tests for workspace name: this_studio - uri: /teamspace/studios/this_studio/src/financial_analyst_crew/main.py
+2024-04-19 15:59:56.356 [info] Discover tests for workspace name: this_studio - uri: /teamspace/studios/this_studio/src/financial_analyst_crew/main.py

@@ -1,0 +1,26 @@
+2024-04-20 15:38:36.819 [warning] /teamspace/studios/this_studio/.ssh/config: ENOENT: no such file or directory, open '/teamspace/studios/this_studio/.ssh/config'
+2024-04-20 15:38:36.820 [info] Activation> Extension version: 0.78.1
+2024-04-20 15:38:38.985 [info] Looking for git repository
+2024-04-20 15:38:38.986 [info] Found 0 repositories during activation
+2024-04-20 15:38:38.986 [info] Git repository found, initializing review manager and pr tree view.
+2024-04-20 15:38:39.008 [info] Registering git provider
+2024-04-20 15:38:39.008 [info] Review+0> Validate state in progress
+2024-04-20 15:38:39.009 [info] Review+0> Validating state...
+2024-04-20 15:38:39.209 [info] Found GitHub remote for folder /teamspace/studios/this_studio
+2024-04-20 15:38:39.212 [info] Trying to use globalState for assignableUsers.
+2024-04-20 15:38:39.394 [info] Review+0> No matching pull request metadata found locally for current branch main
+2024-04-20 15:38:39.443 [info] GlobalState does not exist for assignableUsers.
+2024-04-20 15:38:39.457 [info] Review+0> Failed to get upstream for branch main from git config.
+2024-04-20 15:38:39.457 [info] Review+0> No matching pull request metadata found on GitHub for current branch main
+2024-04-20 15:38:48.750 [info] Found GitHub remote for folder /teamspace/studios/this_studio
+2024-04-20 15:38:49.027 [info] Trying to use globalState for assignableUsers.
+2024-04-20 15:38:49.238 [info] GlobalState does not exist for assignableUsers.
+2024-04-20 15:38:49.342 [info] Review+0> Validate state in progress
+2024-04-20 15:38:49.342 [info] Review+0> Validating state...
+2024-04-20 15:38:49.763 [info] Found GitHub remote for folder /teamspace/studios/this_studio
+2024-04-20 15:38:49.764 [info] Using in-memory cached assignable users.
+2024-04-20 15:38:50.039 [info] Review+0> No matching pull request metadata found locally for current branch main
+2024-04-20 15:38:50.087 [info] Review+0> Failed to get upstream for branch main from git config.
+2024-04-20 15:38:50.088 [info] Review+0> No matching pull request metadata found on GitHub for current branch main
+2024-04-20 15:39:00.830 [info] CreatePullRequestViewProvider> Initializing "create" view: {"defaultBaseRemote":{"owner":"dkh77","repositoryName":"this_studio"},"defaultBaseBranch":"main","defaultCompareRemote":{"owner":"dkh77","repositoryName":"this_studio"},"defaultCompareBranch":"main","defaultTitle":"","defaultDescription":"","defaultMergeMethod":"merge","baseHasMergeQueue":false,"remoteCount":1,"allowAutoMerge":false,"mergeMethodsAvailability":{"merge":true,"squash":true,"rebase":true},"autoMergeDefault":false,"createError":"","labels":[],"isDraftDefault":false,"isDarkTheme":true,"creating":false,"initializeWithGeneratedTitleAndDescription":false}
+2024-04-20 15:39:03.504 [info] CreatePullRequestViewProvider> Initializing "create" view: {"defaultBaseRemote":{"owner":"dkh77","repositoryName":"this_studio"},"defaultBaseBranch":"main","defaultCompareRemote":{"owner":"dkh77","repositoryName":"this_studio"},"defaultCompareBranch":"main","defaultTitle":"","defaultDescription":"","defaultMergeMethod":"merge","baseHasMergeQueue":false,"remoteCount":1,"allowAutoMerge":false,"mergeMethodsAvailability":{"merge":true,"squash":true,"rebase":true},"autoMergeDefault":false,"createError":"","labels":[],"isDraftDefault":false,"isDarkTheme":true,"creating":false,"initializeWithGeneratedTitleAndDescription":false}

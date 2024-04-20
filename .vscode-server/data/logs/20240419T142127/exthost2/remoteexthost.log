@@ -1,0 +1,49 @@
+2024-04-19 14:22:00.424 [info] Extension host with pid 3945 started
+2024-04-19 14:22:00.424 [error] Error: EEXIST: file already exists, open '/teamspace/studios/this_studio/.vscode-server/data/User/workspaceStorage/39632c89e69ea985ac60a0f73a3e6092/vscode.lock'
+2024-04-19 14:22:00.427 [info] Lock '/teamspace/studios/this_studio/.vscode-server/data/User/workspaceStorage/39632c89e69ea985ac60a0f73a3e6092/vscode.lock': Could not acquire lock, checking if the file is stale.
+2024-04-19 14:22:00.431 [info] Lock '/teamspace/studios/this_studio/.vscode-server/data/User/workspaceStorage/39632c89e69ea985ac60a0f73a3e6092/vscode.lock': The pid 22396 appears to be gone.
+2024-04-19 14:22:00.432 [info] Lock '/teamspace/studios/this_studio/.vscode-server/data/User/workspaceStorage/39632c89e69ea985ac60a0f73a3e6092/vscode.lock': Deleting a stale lock.
+2024-04-19 14:22:00.447 [info] Lock '/teamspace/studios/this_studio/.vscode-server/data/User/workspaceStorage/39632c89e69ea985ac60a0f73a3e6092/vscode.lock': Lock acquired.
+2024-04-19 14:22:00.737 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-04-19 14:22:01.738 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-04-19 14:22:01.739 [info] ExtensionService#_doActivateExtension gitpod.gitpod-remote-ssh, startup: true, activationEvent: '*'
+2024-04-19 14:22:02.989 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-04-19 14:22:02.990 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-04-19 14:22:03.099 [error] Activating extension gitpod.gitpod-remote-ssh failed due to an error:
+2024-04-19 14:22:03.099 [error] Error: 14 UNAVAILABLE: No connection established
+	at t.callErrorFromStatus (/teamspace/studios/this_studio/.vscode-server/extensions/gitpod.gitpod-remote-ssh-0.0.51/out/extension.js:2:623677)
+	at Object.onReceiveStatus (/teamspace/studios/this_studio/.vscode-server/extensions/gitpod.gitpod-remote-ssh-0.0.51/out/extension.js:2:648884)
+	at Object.onReceiveStatus (/teamspace/studios/this_studio/.vscode-server/extensions/gitpod.gitpod-remote-ssh-0.0.51/out/extension.js:2:644769)
+	at Object.onReceiveStatus (/teamspace/studios/this_studio/.vscode-server/extensions/gitpod.gitpod-remote-ssh-0.0.51/out/extension.js:2:644214)
+	at /teamspace/studios/this_studio/.vscode-server/extensions/gitpod.gitpod-remote-ssh-0.0.51/out/extension.js:2:728196
+	at process.processTicksAndRejections (node:internal/process/task_queues:77:11)
+for call at
+	at n.makeUnaryRequest (/teamspace/studios/this_studio/.vscode-server/extensions/gitpod.gitpod-remote-ssh-0.0.51/out/extension.js:2:648425)
+	at n.workspaceInfo (/teamspace/studios/this_studio/.vscode-server/extensions/gitpod.gitpod-remote-ssh-0.0.51/out/extension.js:2:713599)
+	at node:internal/util:381:7
+	at new Promise (<anonymous>)
+	at bound  (node:internal/util:367:12)
+	at A.getWorkspaceInfo (/teamspace/studios/this_studio/.vscode-server/extensions/gitpod.gitpod-remote-ssh-0.0.51/out/extension.js:2:1399217)
+	at t.createGitpodExtensionContext (/teamspace/studios/this_studio/.vscode-server/extensions/gitpod.gitpod-remote-ssh-0.0.51/out/extension.js:2:1376425)
+	at t.setupGitpodContext (/teamspace/studios/this_studio/.vscode-server/extensions/gitpod.gitpod-remote-ssh-0.0.51/out/extension.js:2:1369758)
+	at t.activate (/teamspace/studios/this_studio/.vscode-server/extensions/gitpod.gitpod-remote-ssh-0.0.51/out/extension.js:2:338502)
+	at W.ib (/teamspace/studios/this_studio/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:154:13237)
+	at W.hb (/teamspace/studios/this_studio/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:154:12951)
+	at /teamspace/studios/this_studio/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:154:11080
+	at async l.n (/teamspace/studios/this_studio/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:140:6255)
+	at async l.m (/teamspace/studios/this_studio/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:140:6218)
+	at async l (/teamspace/studios/this_studio/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:140:5675)
+2024-04-19 14:22:04.037 [info] Eager extensions activated
+2024-04-19 14:22:04.038 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-04-19 14:22:04.038 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-04-19 14:33:10.650 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2024-04-19 14:33:10.651 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+2024-04-19 14:33:12.005 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2024-04-19 14:37:43.536 [error] [ms-python.python] provider FAILED
+2024-04-19 14:37:43.538 [error] Error: DisposableStore is missing...
+	at we.l (/teamspace/studios/this_studio/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:143:54297)
+	at we.resolveCompletionItem (/teamspace/studios/this_studio/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:143:53766)
+2024-04-19 16:29:12.923 [error] Error: Unknown system error -116: Unknown system error -116, open '/teamspace/studios/this_studio/.vscode-server/data/User/workspaceStorage/39632c89e69ea985ac60a0f73a3e6092/vscode.lock'
+2024-04-19 16:29:12.924 [info] Lock '/teamspace/studios/this_studio/.vscode-server/data/User/workspaceStorage/39632c89e69ea985ac60a0f73a3e6092/vscode.lock': The lock was lost unexpectedly.
+2024-04-19 16:29:12.924 [error] Error: Unknown system error -116: Unknown system error -116, utime '/teamspace/studios/this_studio/.vscode-server/data/User/workspaceStorage/39632c89e69ea985ac60a0f73a3e6092/vscode.lock'
+2024-04-19 16:29:12.924 [info] Lock '/teamspace/studios/this_studio/.vscode-server/data/User/workspaceStorage/39632c89e69ea985ac60a0f73a3e6092/vscode.lock': Could not update mtime.

@@ -1,0 +1,34 @@
+2024-04-17 18:35:13.238 [info] Extension host with pid 22396 started
+2024-04-17 18:35:13.263 [info] Lock '/teamspace/studios/this_studio/.vscode-server/data/User/workspaceStorage/39632c89e69ea985ac60a0f73a3e6092/vscode.lock': Lock acquired.
+2024-04-17 18:35:13.621 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2024-04-17 18:35:13.622 [info] ExtensionService#_doActivateExtension gitpod.gitpod-remote-ssh, startup: true, activationEvent: '*'
+2024-04-17 18:35:14.022 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-04-17 18:35:14.062 [error] Activating extension gitpod.gitpod-remote-ssh failed due to an error:
+2024-04-17 18:35:14.062 [error] Error: 14 UNAVAILABLE: No connection established
+	at t.callErrorFromStatus (/teamspace/studios/this_studio/.vscode-server/extensions/gitpod.gitpod-remote-ssh-0.0.50/out/extension.js:2:623677)
+	at Object.onReceiveStatus (/teamspace/studios/this_studio/.vscode-server/extensions/gitpod.gitpod-remote-ssh-0.0.50/out/extension.js:2:648884)
+	at Object.onReceiveStatus (/teamspace/studios/this_studio/.vscode-server/extensions/gitpod.gitpod-remote-ssh-0.0.50/out/extension.js:2:644769)
+	at Object.onReceiveStatus (/teamspace/studios/this_studio/.vscode-server/extensions/gitpod.gitpod-remote-ssh-0.0.50/out/extension.js:2:644214)
+	at /teamspace/studios/this_studio/.vscode-server/extensions/gitpod.gitpod-remote-ssh-0.0.50/out/extension.js:2:728196
+	at process.processTicksAndRejections (node:internal/process/task_queues:77:11)
+for call at
+	at n.makeUnaryRequest (/teamspace/studios/this_studio/.vscode-server/extensions/gitpod.gitpod-remote-ssh-0.0.50/out/extension.js:2:648425)
+	at n.workspaceInfo (/teamspace/studios/this_studio/.vscode-server/extensions/gitpod.gitpod-remote-ssh-0.0.50/out/extension.js:2:713599)
+	at node:internal/util:381:7
+	at new Promise (<anonymous>)
+	at bound  (node:internal/util:367:12)
+	at A.getWorkspaceInfo (/teamspace/studios/this_studio/.vscode-server/extensions/gitpod.gitpod-remote-ssh-0.0.50/out/extension.js:2:1399030)
+	at t.createGitpodExtensionContext (/teamspace/studios/this_studio/.vscode-server/extensions/gitpod.gitpod-remote-ssh-0.0.50/out/extension.js:2:1376065)
+	at t.setupGitpodContext (/teamspace/studios/this_studio/.vscode-server/extensions/gitpod.gitpod-remote-ssh-0.0.50/out/extension.js:2:1369655)
+	at t.activate (/teamspace/studios/this_studio/.vscode-server/extensions/gitpod.gitpod-remote-ssh-0.0.50/out/extension.js:2:338502)
+	at W.ib (/teamspace/studios/this_studio/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:154:13237)
+	at W.hb (/teamspace/studios/this_studio/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:154:12951)
+	at /teamspace/studios/this_studio/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:154:11080
+	at async l.n (/teamspace/studios/this_studio/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:140:6255)
+	at async l.m (/teamspace/studios/this_studio/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:140:6218)
+	at async l (/teamspace/studios/this_studio/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:140:5675)
+2024-04-17 18:35:14.440 [info] Eager extensions activated
+2024-04-17 18:35:14.441 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-04-17 18:35:14.441 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-04-17 18:35:14.924 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2024-04-17 18:35:50.623 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'

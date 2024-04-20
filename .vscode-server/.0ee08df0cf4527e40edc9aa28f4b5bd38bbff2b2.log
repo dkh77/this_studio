@@ -1,0 +1,101 @@
+*
+* Visual Studio Code Server
+*
+* By using the software, you agree to
+* the Visual Studio Code Server License Terms (https://aka.ms/vscode-server-license) and
+* the Microsoft Privacy Statement (https://privacy.microsoft.com/en-US/privacystatement).
+*
+Server bound to 127.0.0.1:50429 (IPv4)
+Extension host agent listening on 50429
+
+[18:28:15] 
+
+
+
+
+[18:28:15] Installing extensions...
+[18:28:15] Extension host agent started.
+[18:28:15] Started initializing default profile extensions in extensions installation folder. file:///teamspace/studios/this_studio/.vscode-server/extensions
+[18:28:15] Completed initializing default profile extensions in extensions installation folder. file:///teamspace/studios/this_studio/.vscode-server/extensions
+[18:28:15] Installing extension 'gitpod.gitpod-remote-ssh'...
+[18:28:15] Getting Manifest... gitpod.gitpod-remote-ssh
+[18:28:15] Installing extension: gitpod.gitpod-remote-ssh
+[18:28:16] Extension signature verification failed with error 'ENOENT': gitpod.gitpod-remote-ssh
+[18:28:16] Extracted extension to file:///teamspace/studios/this_studio/.vscode-server/extensions/gitpod.gitpod-remote-ssh-0.0.50: gitpod.gitpod-remote-ssh
+[18:28:16] Renamed to /teamspace/studios/this_studio/.vscode-server/extensions/gitpod.gitpod-remote-ssh-0.0.50
+[18:28:16] [gitpod-remote-ssh]: Couldn't find message for key openBrowser.
+[18:28:16] [gitpod-remote-ssh]: Couldn't find message for key openPreview.
+[18:28:16] [gitpod-remote-ssh]: Couldn't find message for key makeHTTPS.
+[18:28:16] [gitpod-remote-ssh]: Couldn't find message for key makeHTTP.
+[18:28:16] Extracting extension completed. gitpod.gitpod-remote-ssh
+[18:28:16] Extension installed successfully: gitpod.gitpod-remote-ssh
+[18:28:16] Extension 'gitpod.gitpod-remote-ssh' v0.0.50 was successfully installed.
+[18:28:16] [127.0.0.1][dc27fdcc][ManagementConnection] New connection established.
+[18:28:16] [127.0.0.1][fe4af88b][ExtensionHostConnection] New connection established.
+[18:28:16] [127.0.0.1][fe4af88b][ExtensionHostConnection] <18857> Launched Extension Host Process.
+[18:28:16] [gitpod-remote-ssh]: Couldn't find message for key openBrowser.
+[18:28:16] [gitpod-remote-ssh]: Couldn't find message for key openPreview.
+[18:28:16] [gitpod-remote-ssh]: Couldn't find message for key makeHTTPS.
+[18:28:16] [gitpod-remote-ssh]: Couldn't find message for key makeHTTP.
+[18:28:16] [gitpod-remote-ssh]: Couldn't find message for key openBrowser.
+[18:28:16] [gitpod-remote-ssh]: Couldn't find message for key openPreview.
+[18:28:16] [gitpod-remote-ssh]: Couldn't find message for key makeHTTPS.
+[18:28:16] [gitpod-remote-ssh]: Couldn't find message for key makeHTTP.
+[18:28:17] [gitpod-remote-ssh]: Couldn't find message for key openBrowser.
+[18:28:17] [gitpod-remote-ssh]: Couldn't find message for key openPreview.
+[18:28:17] [gitpod-remote-ssh]: Couldn't find message for key makeHTTPS.
+[18:28:17] [gitpod-remote-ssh]: Couldn't find message for key makeHTTP.
+[18:28:17] [gitpod-remote-ssh]: Couldn't find message for key openBrowser.
+[18:28:17] [gitpod-remote-ssh]: Couldn't find message for key openPreview.
+[18:28:17] [gitpod-remote-ssh]: Couldn't find message for key makeHTTPS.
+[18:28:17] [gitpod-remote-ssh]: Couldn't find message for key makeHTTP.
+[18:28:17] [gitpod-remote-ssh]: Couldn't find message for key openBrowser.
+[18:28:17] [gitpod-remote-ssh]: Couldn't find message for key openPreview.
+[18:28:17] [gitpod-remote-ssh]: Couldn't find message for key makeHTTPS.
+[18:28:17] [gitpod-remote-ssh]: Couldn't find message for key makeHTTP.
+[18:28:17] [gitpod-remote-ssh]: Couldn't find message for key openBrowser.
+[18:28:17] [gitpod-remote-ssh]: Couldn't find message for key openPreview.
+[18:28:17] [gitpod-remote-ssh]: Couldn't find message for key makeHTTPS.
+[18:28:17] [gitpod-remote-ssh]: Couldn't find message for key makeHTTP.
+[18:28:17] [gitpod-remote-ssh]: Couldn't find message for key openBrowser.
+[18:28:17] [gitpod-remote-ssh]: Couldn't find message for key openPreview.
+[18:28:17] [gitpod-remote-ssh]: Couldn't find message for key makeHTTPS.
+[18:28:17] [gitpod-remote-ssh]: Couldn't find message for key makeHTTP.
+[18:28:17] [gitpod-remote-ssh]: Couldn't find message for key openBrowser.
+[18:28:17] [gitpod-remote-ssh]: Couldn't find message for key openPreview.
+[18:28:17] [gitpod-remote-ssh]: Couldn't find message for key makeHTTPS.
+[18:28:17] [gitpod-remote-ssh]: Couldn't find message for key makeHTTP.
+[18:28:18] [gitpod-remote-ssh]: Couldn't find message for key openBrowser.
+[18:28:18] [gitpod-remote-ssh]: Couldn't find message for key openPreview.
+[18:28:18] [gitpod-remote-ssh]: Couldn't find message for key makeHTTPS.
+[18:28:18] [gitpod-remote-ssh]: Couldn't find message for key makeHTTP.
+[18:28:18] [gitpod-remote-ssh]: Couldn't find message for key openBrowser.
+[18:28:18] [gitpod-remote-ssh]: Couldn't find message for key openPreview.
+[18:28:18] [gitpod-remote-ssh]: Couldn't find message for key makeHTTPS.
+[18:28:18] [gitpod-remote-ssh]: Couldn't find message for key makeHTTP.
+[18:28:19] [gitpod-remote-ssh]: Couldn't find message for key openBrowser.
+[18:28:19] [gitpod-remote-ssh]: Couldn't find message for key openPreview.
+[18:28:19] [gitpod-remote-ssh]: Couldn't find message for key makeHTTPS.
+[18:28:19] [gitpod-remote-ssh]: Couldn't find message for key makeHTTP.
+[18:28:20] [gitpod-remote-ssh]: Couldn't find message for key openBrowser.
+[18:28:20] [gitpod-remote-ssh]: Couldn't find message for key openPreview.
+[18:28:20] [gitpod-remote-ssh]: Couldn't find message for key makeHTTPS.
+[18:28:20] [gitpod-remote-ssh]: Couldn't find message for key makeHTTP.
+[18:28:20] [gitpod-remote-ssh]: Couldn't find message for key openBrowser.
+[18:28:20] [gitpod-remote-ssh]: Couldn't find message for key openPreview.
+[18:28:20] [gitpod-remote-ssh]: Couldn't find message for key makeHTTPS.
+[18:28:20] [gitpod-remote-ssh]: Couldn't find message for key makeHTTP.
+[18:28:22] [gitpod-remote-ssh]: Couldn't find message for key openBrowser.
+[18:28:22] [gitpod-remote-ssh]: Couldn't find message for key openPreview.
+[18:28:22] [gitpod-remote-ssh]: Couldn't find message for key makeHTTPS.
+[18:28:22] [gitpod-remote-ssh]: Couldn't find message for key makeHTTP.
+[18:28:22] [gitpod-remote-ssh]: Couldn't find message for key openBrowser.
+[18:28:22] [gitpod-remote-ssh]: Couldn't find message for key openPreview.
+[18:28:22] [gitpod-remote-ssh]: Couldn't find message for key makeHTTPS.
+[18:28:22] [gitpod-remote-ssh]: Couldn't find message for key makeHTTP.
+[18:28:22] [gitpod-remote-ssh]: Couldn't find message for key openBrowser.
+[18:28:22] [gitpod-remote-ssh]: Couldn't find message for key openPreview.
+[18:28:22] [gitpod-remote-ssh]: Couldn't find message for key makeHTTPS.
+[18:28:22] [gitpod-remote-ssh]: Couldn't find message for key makeHTTP.
+New EH opened, aborting shutdown
+[18:33:15] New EH opened, aborting shutdown

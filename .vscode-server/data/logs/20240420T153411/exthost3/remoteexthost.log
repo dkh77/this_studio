@@ -1,0 +1,64 @@
+2024-04-20 15:35:02.539 [info] Extension host with pid 210301 started
+2024-04-20 15:35:02.539 [error] Error: EEXIST: file already exists, open '/teamspace/studios/this_studio/.vscode-server/data/User/workspaceStorage/39632c89e69ea985ac60a0f73a3e6092/vscode.lock'
+2024-04-20 15:35:02.543 [info] Lock '/teamspace/studios/this_studio/.vscode-server/data/User/workspaceStorage/39632c89e69ea985ac60a0f73a3e6092/vscode.lock': Could not acquire lock, checking if the file is stale.
+2024-04-20 15:35:02.552 [info] Lock '/teamspace/studios/this_studio/.vscode-server/data/User/workspaceStorage/39632c89e69ea985ac60a0f73a3e6092/vscode.lock': The pid 3945 appears to be gone.
+2024-04-20 15:35:02.552 [info] Lock '/teamspace/studios/this_studio/.vscode-server/data/User/workspaceStorage/39632c89e69ea985ac60a0f73a3e6092/vscode.lock': Deleting a stale lock.
+2024-04-20 15:35:02.568 [info] Lock '/teamspace/studios/this_studio/.vscode-server/data/User/workspaceStorage/39632c89e69ea985ac60a0f73a3e6092/vscode.lock': Lock acquired.
+2024-04-20 15:35:02.779 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2024-04-20 15:35:02.780 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+2024-04-20 15:35:02.781 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-04-20 15:35:03.931 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-04-20 15:35:03.931 [info] ExtensionService#_doActivateExtension gitpod.gitpod-remote-ssh, startup: true, activationEvent: '*'
+2024-04-20 15:35:07.063 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-04-20 15:35:07.064 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-04-20 15:35:07.228 [error] Activating extension gitpod.gitpod-remote-ssh failed due to an error:
+2024-04-20 15:35:07.229 [error] Error: 14 UNAVAILABLE: No connection established
+	at t.callErrorFromStatus (/teamspace/studios/this_studio/.vscode-server/extensions/gitpod.gitpod-remote-ssh-0.0.51/out/extension.js:2:623677)
+	at Object.onReceiveStatus (/teamspace/studios/this_studio/.vscode-server/extensions/gitpod.gitpod-remote-ssh-0.0.51/out/extension.js:2:648884)
+	at Object.onReceiveStatus (/teamspace/studios/this_studio/.vscode-server/extensions/gitpod.gitpod-remote-ssh-0.0.51/out/extension.js:2:644769)
+	at Object.onReceiveStatus (/teamspace/studios/this_studio/.vscode-server/extensions/gitpod.gitpod-remote-ssh-0.0.51/out/extension.js:2:644214)
+	at /teamspace/studios/this_studio/.vscode-server/extensions/gitpod.gitpod-remote-ssh-0.0.51/out/extension.js:2:728196
+	at process.processTicksAndRejections (node:internal/process/task_queues:77:11)
+for call at
+	at n.makeUnaryRequest (/teamspace/studios/this_studio/.vscode-server/extensions/gitpod.gitpod-remote-ssh-0.0.51/out/extension.js:2:648425)
+	at n.workspaceInfo (/teamspace/studios/this_studio/.vscode-server/extensions/gitpod.gitpod-remote-ssh-0.0.51/out/extension.js:2:713599)
+	at node:internal/util:381:7
+	at new Promise (<anonymous>)
+	at bound  (node:internal/util:367:12)
+	at A.getWorkspaceInfo (/teamspace/studios/this_studio/.vscode-server/extensions/gitpod.gitpod-remote-ssh-0.0.51/out/extension.js:2:1399217)
+	at t.createGitpodExtensionContext (/teamspace/studios/this_studio/.vscode-server/extensions/gitpod.gitpod-remote-ssh-0.0.51/out/extension.js:2:1376425)
+	at t.setupGitpodContext (/teamspace/studios/this_studio/.vscode-server/extensions/gitpod.gitpod-remote-ssh-0.0.51/out/extension.js:2:1369758)
+	at t.activate (/teamspace/studios/this_studio/.vscode-server/extensions/gitpod.gitpod-remote-ssh-0.0.51/out/extension.js:2:338502)
+	at W.ib (/teamspace/studios/this_studio/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:154:13237)
+	at W.hb (/teamspace/studios/this_studio/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:154:12951)
+	at /teamspace/studios/this_studio/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:154:11080
+	at async l.n (/teamspace/studios/this_studio/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:140:6255)
+	at async l.m (/teamspace/studios/this_studio/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:140:6218)
+	at async l (/teamspace/studios/this_studio/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:140:5675)
+2024-04-20 15:35:07.281 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2024-04-20 15:35:08.186 [info] Eager extensions activated
+2024-04-20 15:35:08.186 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-04-20 15:35:08.187 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-04-20 15:35:21.303 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10015
+2024-04-20 15:35:26.572 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10015
+2024-04-20 15:36:38.932 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10015
+2024-04-20 15:37:15.495 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10015
+2024-04-20 15:38:36.551 [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github, startup: false, activationEvent: 'onStartupFinished'
+2024-04-20 15:39:00.118 [error] Error: No such branch
+	at $.getBranch (/teamspace/studios/this_studio/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/extensions/git/dist/main.js:2:914769)
+	at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+	at async M.eb (/teamspace/studios/this_studio/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/extensions/git/dist/main.js:2:993243)
+	at async M.db (/teamspace/studios/this_studio/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/extensions/git/dist/main.js:2:992935)
+	at async M.getBranch (/teamspace/studios/this_studio/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/extensions/git/dist/main.js:2:981373)
+	at async s2.updateHasUpstream (/teamspace/studios/this_studio/.vscode-server/extensions/github.vscode-pull-request-github-0.78.1/dist/extension.js:2229:1613)
+	at async s2.setCompareBranch (/teamspace/studios/this_studio/.vscode-server/extensions/github.vscode-pull-request-github-0.78.1/dist/extension.js:2229:1374)
+2024-04-20 15:39:00.705 [error] Error: No such branch
+	at $.getBranch (/teamspace/studios/this_studio/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/extensions/git/dist/main.js:2:914769)
+	at async M.eb (/teamspace/studios/this_studio/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/extensions/git/dist/main.js:2:993243)
+	at async M.db (/teamspace/studios/this_studio/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/extensions/git/dist/main.js:2:992935)
+	at async M.getBranch (/teamspace/studios/this_studio/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/extensions/git/dist/main.js:2:981373)
+	at async xc.getTipCommitMessage (/teamspace/studios/this_studio/.vscode-server/extensions/github.vscode-pull-request-github-0.78.1/dist/extension.js:2097:3213)
+	at async u1 (/teamspace/studios/this_studio/.vscode-server/extensions/github.vscode-pull-request-github-0.78.1/dist/extension.js:2108:16508)
+2024-04-20 15:42:35.961 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+2024-04-20 15:42:35.962 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+2024-04-20 15:42:37.001 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features

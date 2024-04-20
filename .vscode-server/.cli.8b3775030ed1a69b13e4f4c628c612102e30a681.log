@@ -1,0 +1,8 @@
+Listening on 127.0.0.1:50465
+looking for token 6ba031ad67ce, got Some("6ba031ad67ce")
+[2024-04-20 15:34:17] info Disposed of connection to running server.
+[2024-04-20 15:34:45] info Disposed of connection to running server.
+looking for token 6ba031ad67ce, got Some("6ba031ad67ce")
+[2024-04-20 15:34:56] info Disposed of connection to running server.
+looking for token 6ba031ad67ce, got Some("6ba031ad67ce")
+[2024-04-20 15:35:07] info Disposed of connection to running server.
