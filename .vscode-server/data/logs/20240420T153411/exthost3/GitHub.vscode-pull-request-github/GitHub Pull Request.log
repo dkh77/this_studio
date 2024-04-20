@@ -24,3 +24,12 @@
 2024-04-20 15:38:50.088 [info] Review+0> No matching pull request metadata found on GitHub for current branch main
 2024-04-20 15:39:00.830 [info] CreatePullRequestViewProvider> Initializing "create" view: {"defaultBaseRemote":{"owner":"dkh77","repositoryName":"this_studio"},"defaultBaseBranch":"main","defaultCompareRemote":{"owner":"dkh77","repositoryName":"this_studio"},"defaultCompareBranch":"main","defaultTitle":"","defaultDescription":"","defaultMergeMethod":"merge","baseHasMergeQueue":false,"remoteCount":1,"allowAutoMerge":false,"mergeMethodsAvailability":{"merge":true,"squash":true,"rebase":true},"autoMergeDefault":false,"createError":"","labels":[],"isDraftDefault":false,"isDarkTheme":true,"creating":false,"initializeWithGeneratedTitleAndDescription":false}
 2024-04-20 15:39:03.504 [info] CreatePullRequestViewProvider> Initializing "create" view: {"defaultBaseRemote":{"owner":"dkh77","repositoryName":"this_studio"},"defaultBaseBranch":"main","defaultCompareRemote":{"owner":"dkh77","repositoryName":"this_studio"},"defaultCompareBranch":"main","defaultTitle":"","defaultDescription":"","defaultMergeMethod":"merge","baseHasMergeQueue":false,"remoteCount":1,"allowAutoMerge":false,"mergeMethodsAvailability":{"merge":true,"squash":true,"rebase":true},"autoMergeDefault":false,"createError":"","labels":[],"isDraftDefault":false,"isDarkTheme":true,"creating":false,"initializeWithGeneratedTitleAndDescription":false}
+2024-04-20 15:52:40.737 [info] Review+0> Validate state in progress
+2024-04-20 15:52:40.737 [info] Review+0> Validating state...
+2024-04-20 15:52:40.737 [info] Repo state for file:///teamspace/studios/this_studio changed.
+2024-04-20 15:52:40.737 [info] Repo file:///teamspace/studios/this_studio has already been setup.
+2024-04-20 15:52:41.138 [info] Found GitHub remote for folder /teamspace/studios/this_studio
+2024-04-20 15:52:41.139 [info] Using in-memory cached assignable users.
+2024-04-20 15:52:41.306 [info] Review+0> No matching pull request metadata found locally for current branch main
+2024-04-20 15:52:41.336 [info] Review+0> Failed to get upstream for branch main from git config.
+2024-04-20 15:52:41.337 [info] Review+0> No matching pull request metadata found on GitHub for current branch main
